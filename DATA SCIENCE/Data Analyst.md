@@ -16,7 +16,7 @@
 
 Before starting this pathway, complete:
 
-**[📊 Common Data Foundations](Python-For-Data.md)**
+**[📊 Common Data Foundations](SQL/Python-For-Data.md)**
 
 You should already understand:
 
