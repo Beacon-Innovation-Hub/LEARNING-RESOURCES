@@ -15,7 +15,7 @@
 4. [HTML Accessibility](#4-html-accessibility)
 5. [HTML for SEO](#5-html-for-seo)
 6. [Professional HTML](#6-professional-html)
-7. [Final Competence Project](#7-final-competence-project)
+7. [7. Practice Project (To do)](#7-practice-project)
 
 ---
 
@@ -244,7 +244,7 @@ Study and apply:
 
 ---
 
-# 7. Practice Project (Compulsory)
+# 7. Practice Project
 
 ## 🏆 Production-Quality Website
 
