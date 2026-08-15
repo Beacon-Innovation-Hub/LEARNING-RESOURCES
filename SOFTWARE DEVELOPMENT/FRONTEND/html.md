@@ -15,7 +15,7 @@
 4. [HTML Accessibility](#4-html-accessibility)
 5. [HTML for SEO](#5-html-for-seo)
 6. [Professional HTML](#6-professional-html)
-7. [7. Practice Project (To do)](#7-practice-project)
+7. [Practice Project (To do)](#7-practice-project)
 
 ---
 
