@@ -1,10 +1,10 @@
 # 🎨 CSS Learning Path
 
-> Learn CSS by watching, reading, experimenting, building, and reviewing your own work.
+> Learn CSS by watching, reading, experimenting, and building real-world projects.
 
 **Level:** 🟢 Beginner → 🔴 Advanced
 **Prerequisite:** Basic HTML knowledge
-**Learning Model:** Watch → Read → Practice → Build → Review
+**Learning Model:** Watch → Read → Practice → Build
 
 ---
 
@@ -12,11 +12,10 @@
 
 1. [CSS Foundations](#1-css-foundations)
 2. [Practice CSS Live](#2-practice-css-live)
-3. [Beginner Practice](#3-beginner-practice)
-4. [Beginner Project](#4-beginner-project)
+3. [Practice Problems](#3-practice-problems)
+4. [Real-World CSS Projects](#4-real-world-css-projects)
 5. [Browser Developer Tools](#5-browser-developer-tools)
-6. [Competence Standard](#6-competence-standard)
-7. [Next Learning Stage](#7-next-learning-stage)
+6. [Next Learning Stage](#6-next-learning-stage)
 
 ---
 
@@ -26,28 +25,22 @@
 
 [![CSS Tutorial for Beginners](https://img.youtube.com/vi/wRNinF7YQqQ/maxresdefault.jpg)](https://youtu.be/wRNinF7YQqQ)
 
-### 🎯 Learning Objectives
+## 🎯 Learning Objectives
 
-By the end of this section, you should understand:
+Develop an understanding of:
 
 * What CSS is
-* The role of CSS in web development
 * CSS syntax
 * Selectors
 * Properties and values
-* External CSS
-* Internal CSS
-* Inline CSS
-* Colors
-* Backgrounds
+* External, internal and inline CSS
+* Colors and backgrounds
 * Typography
 * Width and height
 * Borders
-* Margin
-* Padding
+* Margin and padding
 * The CSS Box Model
-* Classes
-* IDs
+* Classes and IDs
 * Hover states
 * Cascade
 * Inheritance
@@ -55,51 +48,46 @@ By the end of this section, you should understand:
 
 ---
 
-## 🎥 Video Resource
+## 🎥 Beginner Video
 
-### CSS Tutorial for Beginners
+**[▶ Watch: CSS Tutorial for Beginners](https://youtu.be/wRNinF7YQqQ)**
 
-**[▶ Watch the CSS Tutorial on YouTube](https://youtu.be/wRNinF7YQqQ)**
-
-Use this tutorial as your introduction to CSS before moving into documentation and practical work.
+Use this tutorial to establish your CSS foundation before moving into documentation and practical work.
 
 ---
 
 ## 📚 Conceptual Understanding
 
-Watching tutorials is only the first step.
-
-Use technical documentation to understand how CSS works and to develop the habit of consulting professional developer references.
+Videos provide an introduction. Technical documentation should be used to understand CSS concepts in greater depth and as a reference during development.
 
 ### 📘 MDN — CSS Styling Basics
 
 **[Read CSS Styling Basics →](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics)**
 
-Use this resource to strengthen your understanding of:
+Focus on:
 
 * CSS rules
 * Selectors
-* Properties
-* Values
+* Properties and values
+* The Box Model
 * Cascade
 * Specificity
 * Inheritance
-* Box Model
 * CSS values and units
 
 ### 📘 MDN — Getting Started with CSS
 
 **[Read Getting Started with CSS →](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Getting_started)**
 
-Use this guide to understand how CSS is connected to HTML and how browsers apply styles.
+Use this guide to understand how CSS connects to HTML and how browsers apply styles.
 
 ### 📘 MDN — CSS Reference
 
-**[Open the CSS Reference →](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)**
+**[Open CSS Reference →](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)**
 
 Use the CSS Reference whenever you encounter an unfamiliar:
 
-* CSS property
+* Property
 * Selector
 * Function
 * Value
@@ -110,33 +98,27 @@ Use the CSS Reference whenever you encounter an unfamiliar:
 
 # 2. Practice CSS Live
 
-CSS should not only be read.
+Do not only read CSS.
 
-You should regularly change CSS values and observe how those changes affect the webpage.
-
----
+Write CSS, change values, break the design, fix it, and observe how the browser responds.
 
 ## 🟢 MDN Playground
 
-**[🚀 Open MDN Playground →](https://developer.mozilla.org/en-US/play)**
+**[🚀 Practice with MDN Playground →](https://developer.mozilla.org/en-US/play)**
 
-MDN Playground allows you to experiment with HTML and CSS directly in your browser and immediately see the output.
-
----
+Use MDN Playground to experiment with HTML and CSS directly in your browser and immediately see the output.
 
 ## 🔵 CodePen
 
-**[🚀 Open CodePen →](https://codepen.io/pen/)**
+**[🚀 Practice with CodePen →](https://codepen.io/pen/)**
 
-CodePen provides separate HTML and CSS editors with a live webpage preview.
-
-Use these tools when you want to test a CSS concept without creating an entire project.
+CodePen provides HTML and CSS editors alongside a live preview.
 
 ---
 
-## 🔬 CSS Experiment
+## 🔬 Quick Experiment
 
-Copy the following HTML into your chosen playground.
+Add this HTML to your chosen playground:
 
 ```html
 <div class="card">
@@ -150,7 +132,7 @@ Copy the following HTML into your chosen playground.
 </div>
 ```
 
-Add the following CSS.
+Add the following CSS:
 
 ```css
 .card {
@@ -176,265 +158,294 @@ Add the following CSS.
 }
 ```
 
-### 🔧 Experiment With the Code
+### 🔧 Experiment
 
-Change the following values one at a time:
+Change these properties one at a time:
 
 * `width`
 * `padding`
 * `margin`
 * `font-size`
+* `border`
 * `border-radius`
 * `text-align`
-* `border`
 
-Observe what happens after each change.
-
-Do not simply copy the code.
-
-Try to understand **why the output changes**.
+Observe what happens after every change.
 
 ---
 
-# 3. Beginner Practice
+# 3. Practice Problems
 
-Create the following files:
+Practice problems should be attempted independently before looking for solutions.
+
+---
+
+## 🟢 Problem 1 — Style a Basic Webpage
+
+Create:
 
 ```text
-index.html
-css/
+practice-01/
+├── index.html
 └── style.css
 ```
 
-Connect the external CSS file to your HTML document.
-
-Example:
-
-```html
-<link rel="stylesheet" href="css/style.css">
-```
-
-Your webpage should demonstrate the use of:
-
-* Element selectors
-* Class selectors
-* ID selectors
-* Text styling
-* Font sizes
-* Backgrounds
-* Borders
-* Margin
-* Padding
-* Width
-* Height
-* Hover states
-* Basic CSS Box Model understanding
-
----
-
-## 🧪 Practice Challenge
-
-Create three cards on a webpage.
-
-Each card should contain:
-
-* A heading
-* A paragraph
-* A button
-
-Use CSS to make the cards visually consistent.
-
-You should experiment with:
-
-```css
-width
-padding
-margin
-border
-border-radius
-font-size
-text-align
-background
-```
-
-Then modify the design using Browser Developer Tools before updating your stylesheet.
-
----
-
-# 4. Beginner Project
-
-## 💻 Build a Personal Profile Page
-
-Create a professional personal profile webpage using HTML and CSS.
-
-The objective is to demonstrate that you can style an HTML document independently.
-
----
-
-## Required Sections
-
 Your page should contain:
+
+* Heading
+* Subheading
+* Three paragraphs
+* Image
+* Link
+* Button
+
+Use CSS to change:
+
+* Typography
+* Font sizes
+* Background
+* Spacing
+* Borders
+* Button appearance
+
+---
+
+## 🟢 Problem 2 — Profile Card
+
+Create a profile card containing:
+
+* Profile image
+* Name
+* Short biography
+* Skills
+* Contact button
+
+Use CSS to implement:
+
+* Width
+* Padding
+* Margin
+* Border
+* Border radius
+* Text alignment
+* Hover effect
+
+Try to centre the card on the page.
+
+---
+
+## 🟢 Problem 3 — Navigation Bar
+
+Create a navigation bar containing:
+
+```text
+Home
+About
+Projects
+Contact
+```
+
+Style the navigation so that:
+
+* Default link underlines are removed
+* Links have appropriate spacing
+* Links visually change when hovered
+* The navigation is visually separated from the page content
+
+---
+
+## 🟢 Problem 4 — Product Card
+
+Create a product card containing:
+
+* Product image
+* Product name
+* Description
+* Price
+* "Buy Now" button
+
+Experiment with:
+
+* Box Model
+* Shadows
+* Borders
+* Spacing
+* Typography
+* Button states
+
+---
+
+## 🟡 Problem 5 — Login Form
+
+Build a styled login interface containing:
+
+* Email field
+* Password field
+* Remember me option
+* Login button
+* Forgot password link
+
+Focus on:
+
+* Form spacing
+* Input sizing
+* Labels
+* Borders
+* Focus states
+* Button hover states
+
+---
+
+## 🟡 Problem 6 — Landing Page
+
+Build a landing page containing:
 
 * Header
 * Navigation
-* Profile section
-* About section
-* Skills section
-* Contact section
+* Hero section
+* Main heading
+* Supporting text
+* Call-to-action button
+* Features section
 * Footer
 
----
+Do not copy an existing CSS template.
 
-## CSS Requirements
-
-Your project should demonstrate:
-
-* Typography
-* Colors
-* Backgrounds
-* Borders
-* Margin
-* Padding
-* Classes
-* Appropriate selectors
-* Hover effects
-* Visual hierarchy
-* Consistent spacing
-* Basic layout principles
+Create your own layout and visual hierarchy.
 
 ---
 
-## Suggested Project Structure
+## 🟡 Problem 7 — Recreate a Design
+
+Find a simple webpage or interface that you like.
+
+Without copying its source code:
+
+1. Study its layout.
+2. Identify the major sections.
+3. Recreate the HTML structure.
+4. Reproduce the appearance using your own CSS.
+5. Compare your result with the original.
+6. Identify what you would improve.
+
+---
+
+# 4. Real-World CSS Projects
+
+Once you understand the fundamentals, start applying CSS to complete interfaces.
+
+## 🏗️ Real-World Project Playlist
+
+**[▶ Open the Real-World Projects Playlist](https://www.youtube.com/playlist?list=PLRjB3Wml-DM_VWMDomFed97f74dpCO7GE)**
+
+Use the playlist to observe how CSS concepts are combined when building complete projects.
+
+### Recommended Approach
+
+Do **not** simply code along from beginning to end.
+
+For each project:
+
+1. Watch the introduction and understand the intended design.
+2. Pause the video.
+3. Attempt to build the interface yourself.
+4. Use MDN when you encounter unfamiliar CSS.
+5. Compare your implementation with the tutorial.
+6. Identify differences.
+7. Refactor your CSS.
+8. Complete the project independently.
+
+### 📁 Store Each Project Separately
 
 ```text
-css-beginner-project/
+css-projects/
 │
-├── index.html
-│
-├── css/
+├── project-01/
+│   ├── index.html
 │   └── style.css
 │
-├── images/
+├── project-02/
+│   ├── index.html
+│   └── style.css
 │
-└── README.md
+└── project-03/
+    ├── index.html
+    └── style.css
 ```
-
----
-
-## 🚫 Avoid
-
-Do not:
-
-* Copy an entire website template
-* Copy CSS without understanding it
-* Use excessive inline CSS
-* Use random values without understanding their effect
-* Use `!important` to solve every styling problem
-
-The objective is to demonstrate your understanding of CSS.
 
 ---
 
 # 5. Browser Developer Tools
 
-Professional developers regularly inspect and debug CSS using browser Developer Tools.
+Learning CSS also means learning how to debug it.
 
-You should become comfortable using them early.
+Open one of your webpages in a browser and use **Developer Tools → Inspect**.
 
----
+Practice:
 
-## 🛠️ Practice
+1. Selecting HTML elements.
+2. Viewing applied CSS.
+3. Enabling and disabling properties.
+4. Editing CSS values.
+5. Inspecting margin and padding.
+6. Inspecting the Box Model.
+7. Identifying inherited styles.
+8. Identifying overridden styles.
+9. Investigating specificity.
+10. Testing changes before editing your stylesheet.
 
-Open your webpage in your browser.
-
-Right-click an element and select:
-
-**Inspect**
-
-Use Developer Tools to:
-
-1. Inspect HTML elements.
-2. View the CSS rules applied to an element.
-3. Enable and disable CSS properties.
-4. Edit property values.
-5. Test different units.
-6. Inspect the CSS Box Model.
-7. Identify inherited styles.
-8. Identify overridden styles.
-9. Determine which CSS rule has higher specificity.
-10. Experiment before changing your actual stylesheet.
-
-Changes made in Developer Tools are temporary.
-
-This makes the browser an excellent environment for testing ideas.
+Developer Tools changes are temporary, making them ideal for experimentation.
 
 ---
 
-# 6. Competence Standard
+# 6. Next Learning Stage
 
-Watching the tutorial alone does **not** demonstrate CSS competence.
+After CSS foundations, continue developing your skills in modern layout and responsive design.
 
-Before progressing to the next level, you should be able to:
+## 🟡 Flexbox
 
-1. Connect an external stylesheet to an HTML document.
-2. Write CSS rules independently.
-3. Use element, class, and ID selectors appropriately.
-4. Explain the difference between classes and IDs.
-5. Explain the CSS Box Model.
-6. Explain the difference between margin and padding.
-7. Apply borders and backgrounds correctly.
-8. Understand basic cascade behavior.
-9. Explain inheritance.
-10. Explain basic specificity.
-11. Style a webpage from an unfamiliar specification.
-12. Debug styling problems using Browser Developer Tools.
-13. Experiment with CSS using a live playground.
-14. Consult MDN documentation independently.
-15. Explain your CSS implementation during code review.
+Study:
 
----
-
-# 7. Next Learning Stage
-
-Once you are comfortable with CSS foundations, continue to:
-
-## 🟡 Intermediate CSS
-
-### Flexbox
-
-Learn:
-
-* Flex containers
-* Flex items
-* Main axis
-* Cross axis
 * `display: flex`
+* Flex containers and items
+* Main and cross axes
+* `flex-direction`
 * `justify-content`
 * `align-items`
 * `gap`
-* `flex-direction`
 * `flex-wrap`
 * `flex-grow`
 * `flex-shrink`
 
-### CSS Grid
+### 🎮 Practice
 
-Learn:
+**[Flexbox Froggy →](https://flexboxfroggy.com/)**
 
-* Grid containers
-* Rows
-* Columns
-* Grid tracks
+---
+
+## 🟡 CSS Grid
+
+Study:
+
 * `display: grid`
+* Grid containers
+* Rows and columns
+* Grid tracks
 * `grid-template-columns`
 * `grid-template-rows`
 * `gap`
 * Grid placement
-* Responsive grid layouts
+* Responsive grids
 
-### Responsive Web Design
+### 🎮 Practice
 
-Learn:
+**[Grid Garden →](https://cssgridgarden.com/)**
+
+---
+
+## 🟡 Responsive Web Design
+
+Study:
 
 * Mobile-first design
 * Media queries
@@ -452,10 +463,14 @@ Learn:
 
 ---
 
-# 🚀 CSS Learning Progression
+## 🚀 Learning Progression
 
 ```text
 🟢 CSS Foundations
+        ↓
+🧪 Practice Problems
+        ↓
+🏗️ Real-World Projects
         ↓
 🟡 Flexbox
         ↓
@@ -463,22 +478,9 @@ Learn:
         ↓
 🟡 Responsive Web Design
         ↓
-🔴 Advanced CSS
-        ↓
-🔴 Professional CSS
-        ↓
-🏆 Final Competence Project
+🔴 Advanced & Professional CSS
 ```
 
 ---
 
-## 💡 Learning Principle
-
-> Do not learn CSS by memorizing every property.
-
-Learn how to:
-
-**Read documentation → experiment → inspect the result → identify problems → debug → improve your implementation.**
-
-That is the workflow used in real web development.
-
+> **Learning Principle:** Do not try to memorize every CSS property. Learn how to use documentation, experiment with CSS, inspect the result, identify problems, debug them, and improve your implementation.
