@@ -1,8 +1,8 @@
-# 📊 Data Science, Data Analytics & Data Engineering Learning Path
+# 📊 Common Data Foundations
 
-> Learn how to understand, clean, transform, analyse, visualize, and engineer data before specialising as a **Data Analyst**, **Data Scientist**, or **Data Engineer**.
+> Build the shared technical foundation required for Data Analytics, Data Science, and Data Engineering.
 
-![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-success)
+![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-success)
 ![Python](https://img.shields.io/badge/Python-Data%20Fundamentals-blue)
 ![Practice](https://img.shields.io/badge/Approach-Project%20Based-orange)
 ![BIH](https://img.shields.io/badge/Case%20Studies-Beacon%20Innovation%20Hub-purple)
@@ -11,45 +11,31 @@
 
 ---
 
-# 🗺️ Learning Roadmap
+# 🗺️ Shared Learning Roadmap
 
 ```text
-                           📊 DATA
-                              │
-                              ▼
-                    COMMON DATA FOUNDATION
-                              │
-             ┌────────────────┼────────────────┐
-             │                │                │
-             ▼                ▼                ▼
-      📊 DATA ANALYST   🧠 DATA SCIENTIST   ⚙️ DATA ENGINEER
-             │                │                │
-           Excel          Statistics      Advanced SQL
-            SQL          Probability       Databases
-          Python           Python         Data Modeling
-          Pandas           NumPy            ETL / ELT
-        Power BI       Visualization       Pipelines
-        Tableau       Machine Learning   Warehousing
-             │                │            Cloud / Spark
-             ▼                ▼                ▼
-       Dashboards         ML Models      Data Platforms
-       & Insights         & Research      & Pipelines
+🐍 Python Fundamentals
+        ↓
+🔢 NumPy
+        ↓
+🐼 Pandas
+        ↓
+🧹 Data Cleaning
+        ↓
+🔗 Multiple Tables & Joins
+        ↓
+📊 Data Visualization
+        ↓
+🔎 Exploratory Data Analysis
+        ↓
+✅ Validation & Documentation
+        ↓
+🏗️ BIH Common Data Project
 ```
 
----
+This file contains **only the shared foundation**.
 
-# 📍 Common Foundation
-
-1. [Python Fundamentals](#1-python-fundamentals)
-2. [NumPy](#2-numpy)
-3. [Pandas](#3-pandas)
-4. [Data Cleaning](#4-data-cleaning)
-5. [Multiple Tables & Joins](#5-multiple-tables--joins)
-6. [Data Visualization](#6-data-visualization)
-7. [Exploratory Data Analysis](#7-exploratory-data-analysis)
-8. [Beginner BIH Project](#8-beginner-bih-project)
-9. [Progress Checklist](#9-progress-checklist)
-10. [Specialisation Paths](#10-specialisation-paths)
+Specialisation begins after this stage.
 
 ---
 
@@ -61,9 +47,9 @@
 
 **[▶ Watch the Full Course](https://youtu.be/wUSDVGivd-8)**
 
-Use this as the main guided resource for the beginner data pathway.
+Use this as the main guided resource.
 
-Do not watch the course passively.
+Do not watch passively.
 
 ```text
 🎥 Watch
@@ -85,17 +71,15 @@ Do not watch the course passively.
 
 **Level:** 🟢 Beginner
 
-Python provides the programming foundation for all three data pathways.
+Python is the common programming foundation for modern data work.
 
----
-
-## 🎥 Beginner Python Resource
+## 🎥 Additional Beginner Resource
 
 [![Python for Beginners](https://img.youtube.com/vi/b093aqAZiPU/maxresdefault.jpg)](https://youtu.be/b093aqAZiPU)
 
 **[▶ Watch Python for Beginners](https://youtu.be/b093aqAZiPU)**
 
-Use this resource if you need additional support with basic Python before working with data libraries.
+Use this resource if you need extra help with Python fundamentals.
 
 ---
 
@@ -146,21 +130,11 @@ Useful for:
 
 `conditions` • `loops` • `functions` • `strings` • `lists` • `problem solving`
 
----
-
 ## ⚔️ CodeCombat
 
 **[🎮 Learn Python Through Gameplay](https://codecombat.com/)**
 
-Recommended when learning:
-
-* Variables
-* Conditions
-* Loops
-* Functions
-* Programming logic
-
----
+Recommended for basic programming logic.
 
 ## 🕹️ CodinGame
 
@@ -172,10 +146,6 @@ Use after becoming comfortable with basic Python.
 
 # 🏢 BIH Lab 01 — Participant Registration
 
-### Scenario
-
-Beacon Innovation Hub receives a new participant registration.
-
 ```python
 participant = {
     "name": "Ayanda",
@@ -186,35 +156,31 @@ participant = {
 }
 ```
 
-### Your Mission
+### Tasks
 
 * [ ] Display the participant's name
-* [ ] Display the technical team
-* [ ] Determine whether the participant has GitHub
+* [ ] Display the team
+* [ ] Check whether GitHub exists
 * [ ] Increase `projects_completed`
 * [ ] Add a LinkedIn field
-* [ ] Add a list of technical skills
-* [ ] Display every technical skill
+* [ ] Add technical skills
+* [ ] Display every skill
+* [ ] Create at least five fictional participants
 
-### ⭐ Extension
+### Extension
 
-Create at least **five fictional participants**.
+Determine:
 
-Then determine:
-
-* [ ] Total participants
-* [ ] Number in Data Science
-* [ ] Number in Cybersecurity
-* [ ] Number in Software Development
+* [ ] Total number of participants
+* [ ] Number per technical team
 * [ ] Most common team
-
-Do not manually count the data.
+* [ ] Average projects completed
 
 ---
 
 # 🏢 BIH Lab 02 — Project Evaluation Engine
 
-BIH evaluates innovation projects using:
+Suppose BIH evaluates projects using:
 
 | Criterion             | Weight |
 | --------------------- | -----: |
@@ -235,7 +201,7 @@ def calculate_project_score(
     pass
 ```
 
-### Classification
+Classify results:
 
 ```text
 80–100    High Potential
@@ -246,13 +212,12 @@ Below 50  Major Revision Required
 
 ### Tasks
 
-* [ ] Calculate the weighted score
+* [ ] Calculate a weighted result
 * [ ] Evaluate one project
 * [ ] Evaluate five projects
-* [ ] Store project results
-* [ ] Find the highest-scoring project
-* [ ] Calculate the average project score
-* [ ] Assign a classification automatically
+* [ ] Find the highest score
+* [ ] Calculate the average
+* [ ] Assign classifications automatically
 
 ---
 
@@ -260,7 +225,7 @@ Below 50  Major Revision Required
 
 **Level:** 🟢 Beginner → 🟡 Intermediate
 
-NumPy provides efficient numerical operations and is foundational for scientific computing and data science.
+NumPy provides efficient numerical operations for structured numeric data.
 
 ---
 
@@ -270,19 +235,15 @@ NumPy provides efficient numerical operations and is foundational for scientific
 
 **[▶ Watch NumPy Resource 1](https://youtu.be/zI5ducyfyNc)**
 
----
-
 ## 🎥 NumPy Resource 2
 
 [![Python NumPy Tutorial](https://img.youtube.com/vi/QUT1VHiLmmI/maxresdefault.jpg)](https://youtu.be/QUT1VHiLmmI)
 
 **[▶ Watch NumPy Resource 2](https://youtu.be/QUT1VHiLmmI)**
 
-Use the second resource when you need another explanation or additional examples.
-
 ---
 
-## 📚 NumPy Documentation
+## 📚 Documentation
 
 * **[NumPy Beginner Guide](https://numpy.org/doc/stable/user/absolute_beginners.html)**
 * **[NumPy User Guide](https://numpy.org/doc/stable/user/)**
@@ -292,7 +253,7 @@ Use the second resource when you need another explanation or additional examples
 
 ## 🎯 Learn
 
-* [ ] NumPy arrays
+* [ ] Arrays
 * [ ] Dimensions
 * [ ] Shape
 * [ ] Data types
@@ -328,17 +289,17 @@ Technical | Market | Impact | Presentation
 
 ### Analyse
 
-* [ ] Determine the array shape
-* [ ] Determine the number of projects
-* [ ] Calculate mean score per project
-* [ ] Calculate mean score per criterion
-* [ ] Find the highest technical score
-* [ ] Find the lowest presentation score
-* [ ] Calculate standard deviation
-* [ ] Identify the best-performing project
-* [ ] Identify projects averaging above 75
+* [ ] Array shape
+* [ ] Number of projects
+* [ ] Mean score per project
+* [ ] Mean per criterion
+* [ ] Highest technical score
+* [ ] Lowest presentation score
+* [ ] Standard deviation
+* [ ] Highest-performing project
+* [ ] Projects averaging above 75
 
-> ⭐ Try to solve these using NumPy operations instead of Python loops.
+> Try to use NumPy operations instead of loops.
 
 ---
 
@@ -346,25 +307,21 @@ Technical | Market | Impact | Presentation
 
 **Level:** 🟢 Beginner → 🟡 Intermediate
 
-Pandas is one of the most important tools in this pathway for working with structured and tabular data.
+Pandas is the main shared tool for tabular data manipulation.
 
 ---
 
-## 🎥 Pandas Tutorial
+## 🎥 Pandas Resource
 
 [![Pandas Tutorial](https://img.youtube.com/vi/EXIgjIBu4EU/maxresdefault.jpg)](https://youtu.be/EXIgjIBu4EU)
 
-**[▶ Watch the Pandas Tutorial](https://youtu.be/EXIgjIBu4EU)**
+**[▶ Watch Pandas Tutorial](https://youtu.be/EXIgjIBu4EU)**
 
----
-
-## 🎥 Additional Data Resource
+## 🎥 Additional Resource
 
 [![Additional Data Resource](https://img.youtube.com/vi/2uvysYbKdjM/maxresdefault.jpg)](https://youtu.be/2uvysYbKdjM)
 
 **[▶ Watch Additional Data Resource](https://youtu.be/2uvysYbKdjM)**
-
-Use this resource as additional reinforcement.
 
 ---
 
@@ -376,7 +333,7 @@ Use this resource as additional reinforcement.
 | User Guide      | [Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html)                 |
 | DataFrame       | [DataFrame Reference](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html) |
 | Missing Data    | [Working with Missing Data](https://pandas.pydata.org/docs/user_guide/missing_data.html)  |
-| Grouping        | [GroupBy](https://pandas.pydata.org/docs/user_guide/groupby.html)                         |
+| GroupBy         | [GroupBy](https://pandas.pydata.org/docs/user_guide/groupby.html)                         |
 | Joining         | [Merge, Join & Concatenate](https://pandas.pydata.org/docs/user_guide/merging.html)       |
 
 ---
@@ -385,23 +342,22 @@ Use this resource as additional reinforcement.
 
 * [ ] Series
 * [ ] DataFrames
-* [ ] Reading CSV files
-* [ ] Reading Excel files
+* [ ] CSV files
+* [ ] Excel files
 * [ ] `head()`
 * [ ] `tail()`
 * [ ] `info()`
 * [ ] `describe()`
-* [ ] Data types
 * [ ] Selecting columns
-* [ ] Filtering rows
+* [ ] Filtering
 * [ ] Sorting
 * [ ] Missing values
-* [ ] Duplicate rows
+* [ ] Duplicate records
 * [ ] Grouping
 * [ ] Aggregation
 * [ ] Merging
 * [ ] Joining
-* [ ] Transforming columns
+* [ ] Column transformations
 
 ---
 
@@ -426,7 +382,7 @@ projects_completed
 attendance_rate
 ```
 
-Create at least **30 fictional participant records**.
+Create at least **30 fictional participants**.
 
 Deliberately introduce:
 
@@ -451,14 +407,13 @@ DataScience
 
 ## 🔎 Investigate Before Cleaning
 
-* [ ] Display first rows
-* [ ] Determine dataset shape
-* [ ] Inspect data types
-* [ ] Generate descriptive statistics
-* [ ] Count missing values
-* [ ] Count duplicate records
-* [ ] Inspect unique team values
-* [ ] Identify suspicious values
+* [ ] Dataset shape
+* [ ] Data types
+* [ ] Descriptive statistics
+* [ ] Missing-value counts
+* [ ] Duplicate counts
+* [ ] Unique categories
+* [ ] Suspicious values
 
 ---
 
@@ -466,9 +421,7 @@ DataScience
 
 **Level:** 🟡 Intermediate
 
-Professional data work requires understanding **why** a transformation was applied, not merely producing a clean dataset.
-
-Use:
+Use the following workflow:
 
 ```text
 🔎 Detect
@@ -484,9 +437,9 @@ Use:
 
 ---
 
-# 🏢 BIH Lab 05 — Clean the Community Dataset
+# 🏢 BIH Lab 05 — Clean the Dataset
 
-For every important transformation, document:
+For every important transformation, record:
 
 ### Problem
 
@@ -494,52 +447,40 @@ What is wrong?
 
 ### Evidence
 
-How was the problem discovered?
+How was it identified?
 
 ### Decision
 
-What will be done?
+What should be done?
 
 ### Transformation
 
-How was the data changed?
+How was it changed?
 
 ### Validation
 
-How do you know the transformation worked?
+How was the result verified?
 
 ---
 
-### Example
-
-> **Problem:** `"Data Science"` appears using multiple spellings.
-> **Evidence:** Inspection of unique values revealed inconsistent labels.
-> **Decision:** Standardise valid variations.
-> **Transformation:** Convert variations to `"Data Science"`.
-> **Validation:** Inspect unique team values again.
-
----
-
-## Clean
+### Clean
 
 * [ ] Missing values
-* [ ] Duplicate records
-* [ ] Team names
+* [ ] Duplicates
+* [ ] Inconsistent categories
 * [ ] Dates
-* [ ] Numeric fields
+* [ ] Numeric values
 * [ ] Invalid values
-* [ ] Inconsistent text
+* [ ] Text inconsistencies
 * [ ] Final dataset
 
-> **Rule:** Never silently clean important data.
+> Never silently clean important data.
 
 ---
 
 # 5. Multiple Tables & Joins
 
 **Level:** 🟡 Intermediate
-
-Real-world data is usually distributed across multiple tables.
 
 Create:
 
@@ -552,46 +493,7 @@ reviews.csv
 
 ---
 
-## `participants.csv`
-
-```text
-participant_id
-name
-team
-experience
-```
-
-## `projects.csv`
-
-```text
-project_id
-project_name
-category
-status
-start_date
-```
-
-## `project_members.csv`
-
-```text
-project_id
-participant_id
-role
-```
-
-## `reviews.csv`
-
-```text
-project_id
-technical_score
-market_score
-impact_score
-review_date
-```
-
----
-
-## 🗂️ Relationships
+## Relationships
 
 ```text
 Participants
@@ -608,7 +510,7 @@ Reviews
 
 ---
 
-# 🏢 BIH Lab 06 — Joining Community Data
+# 🏢 BIH Lab 06 — Joining Data
 
 ### Tasks
 
@@ -616,25 +518,21 @@ Reviews
 * [ ] Identify primary keys
 * [ ] Identify foreign keys
 * [ ] Validate key data types
-* [ ] Join participants with project membership
-* [ ] Join project information
-* [ ] Join reviews
+* [ ] Join participant and project data
+* [ ] Join project reviews
 * [ ] Detect unmatched records
-* [ ] Compare row counts before and after joins
+* [ ] Compare row counts
 * [ ] Detect accidental duplication
 * [ ] Validate the final dataset
 
----
-
-## Answer
+### Questions
 
 1. Which project has the largest team?
-2. Which BIH team contributes to the most projects?
+2. Which technical team contributes to the most projects?
 3. Which project has the highest review score?
-4. Which participants work across multiple projects?
-5. What is the average project score by category?
-6. Which project categories have the most participants?
-7. Are more experienced participants associated with higher project scores?
+4. Which participants work on multiple projects?
+5. What is the average score by project category?
+6. Which categories have the most participants?
 
 ---
 
@@ -642,7 +540,7 @@ Reviews
 
 **Level:** 🟡 Intermediate
 
-A good analysis should communicate information clearly, not just calculate it.
+Visualization helps communicate patterns clearly.
 
 ---
 
@@ -650,7 +548,7 @@ A good analysis should communicate information clearly, not just calculate it.
 
 [![Data Visualization](https://img.youtube.com/vi/OZOOLe2imFo/maxresdefault.jpg)](https://www.youtube.com/watch?v=OZOOLe2imFo)
 
-**[▶ Watch Data Visualization Resource](https://www.youtube.com/watch?v=OZOOLe2imFo)**
+**[▶ Watch Visualization Resource](https://www.youtube.com/watch?v=OZOOLe2imFo)**
 
 ---
 
@@ -664,13 +562,12 @@ A good analysis should communicate information clearly, not just calculate it.
 
 ## 🎯 Learn
 
-* [ ] Line charts
 * [ ] Bar charts
-* [ ] Horizontal bar charts
+* [ ] Line charts
 * [ ] Scatter plots
 * [ ] Histograms
-* [ ] Labels
 * [ ] Titles
+* [ ] Labels
 * [ ] Legends
 * [ ] Axes
 * [ ] Appropriate chart selection
@@ -681,34 +578,32 @@ A good analysis should communicate information clearly, not just calculate it.
 
 Visualize:
 
-* [ ] Participants by technical team
+* [ ] Participants by team
 * [ ] Projects by category
 * [ ] Projects by status
 * [ ] Attendance distribution
 * [ ] Review scores
-* [ ] Projects completed per participant
+* [ ] Projects completed
 * [ ] Average project score by category
 * [ ] Attendance vs projects completed
 
----
-
-## For Every Visualization
+For each chart provide:
 
 ### 👀 Observation
 
-What does the chart show?
+What does it show?
 
 ### 🔎 Analysis
 
-What pattern is visible?
+What pattern exists?
 
 ### 🧠 Interpretation
 
-What might explain that pattern?
+What might explain it?
 
 ### 🎯 Action
 
-What could BIH investigate or do?
+What should BIH investigate?
 
 ---
 
@@ -716,162 +611,157 @@ What could BIH investigate or do?
 
 **Level:** 🟡 Intermediate
 
-Exploratory Data Analysis is about discovering meaningful patterns, anomalies, relationships, and questions in data.
+EDA is used to understand the structure, patterns, anomalies, and relationships in unfamiliar data.
 
 ---
 
 # 🏢 BIH Case Study — Community Performance
 
-### Scenario
+Investigate:
 
-Beacon Innovation Hub wants to understand whether its community model is effectively developing participants and producing successful technology projects.
-
-Available data includes:
-
-```text
-Participants
-Teams
-Attendance
-Projects
-Project Membership
-Project Reviews
-Project Completion
-```
-
----
-
-## 🔍 Investigate
-
-* [ ] Which technical teams are growing fastest?
-* [ ] Which teams have the strongest participation?
-* [ ] Which teams have the lowest attendance?
-* [ ] Which projects attract the most participants?
-* [ ] Which project categories perform best?
-* [ ] Is attendance associated with project completion?
-* [ ] Are more experienced participants completing more projects?
-* [ ] Which projects appear to require intervention?
-* [ ] Are particular technical teams underrepresented?
+* [ ] Which teams are growing?
+* [ ] Which teams have high participation?
+* [ ] Which teams have low attendance?
+* [ ] Which projects attract more participants?
+* [ ] Which categories perform best?
+* [ ] Is attendance associated with completion?
+* [ ] Which projects may require intervention?
+* [ ] Are some technical teams underrepresented?
 * [ ] Which participants appear highly engaged?
 
 ---
 
 # 🧠 Analysis Framework
 
-For every major finding:
-
 ```text
 📊 DATA
 What happened?
      ↓
 🔎 PATTERN
-What relationship or trend exists?
+What trend or relationship exists?
      ↓
 🧠 INTERPRETATION
 What might explain it?
      ↓
 🎯 DECISION
-What should be investigated or done next?
+What should be investigated or done?
 ```
 
-> ⚠️ Correlation does not prove causation.
+> Correlation does not automatically imply causation.
 
 ---
 
-# 8. Beginner BIH Project
+# 8. Validation & Documentation
 
-# 🏗️ BIH Community Data Analysis
+**Level:** 🟡 Intermediate
+
+A result is not trustworthy merely because the code ran successfully.
+
+---
+
+## ✅ Validate
+
+* [ ] Row counts
+* [ ] Column counts
+* [ ] Data types
+* [ ] Missingness
+* [ ] Unique keys
+* [ ] Join results
+* [ ] Aggregations
+* [ ] Transformation outputs
+* [ ] Unexpected outliers
+* [ ] Impossible values
+
+---
+
+## 📝 Document
+
+Record:
+
+* Data source
+* Dataset purpose
+* Data types
+* Missingness
+* Cleaning decisions
+* Transformations
+* Joins
+* Aggregations
+* Validation checks
+* Assumptions
+* Known limitations
+
+---
+
+# 9. BIH Common Data Project
+
+# 🏗️ BIH Community Data Investigation
 
 ### Scenario
 
-You have joined the Beacon Innovation Hub data team.
+Beacon Innovation Hub provides multiple messy datasets and asks:
 
-Management provides multiple messy datasets and asks:
-
-> **What does the available evidence reveal about community participation, project performance, participant engagement, and areas requiring intervention?**
+> **What does the data reveal about participant engagement, project activity, and areas that may require further investigation?**
 
 ---
 
-## 1️⃣ Understand the Data
+## Project Requirements
 
-* [ ] Describe each dataset
-* [ ] Explain every important column
-* [ ] Identify data types
-* [ ] Identify primary keys
-* [ ] Identify foreign keys
-* [ ] Map table relationships
+### 1. Data Understanding
 
----
+* [ ] Describe every dataset
+* [ ] Identify columns
+* [ ] Identify types
+* [ ] Identify keys
+* [ ] Map relationships
 
-## 2️⃣ Assess Data Quality
+### 2. Data Quality
 
-* [ ] Missing values
-* [ ] Duplicate records
+* [ ] Missingness
+* [ ] Duplicates
 * [ ] Invalid values
-* [ ] Incorrect data types
 * [ ] Inconsistent categories
-* [ ] Suspicious values
+* [ ] Incorrect types
 
----
-
-## 3️⃣ Clean & Transform
+### 3. Cleaning
 
 * [ ] Preserve raw data
-* [ ] Document transformations
-* [ ] Standardise categories
-* [ ] Correct types
-* [ ] Handle missing values
-* [ ] Validate cleaned data
+* [ ] Document changes
+* [ ] Validate transformations
 
----
-
-## 4️⃣ Integrate Data
+### 4. Integration
 
 * [ ] Join tables
 * [ ] Explain join types
-* [ ] Identify unmatched records
-* [ ] Check row counts
 * [ ] Validate joins
 
----
-
-## 5️⃣ Analyse
-
-Use:
+### 5. Analysis
 
 * [ ] Filtering
 * [ ] Sorting
 * [ ] Grouping
 * [ ] Aggregation
 * [ ] Descriptive statistics
-* [ ] Comparative analysis
 
----
+### 6. Visualization
 
-## 6️⃣ Visualize
+* [ ] Appropriate chart choice
+* [ ] Clear labels
+* [ ] Interpretation
 
-* [ ] Select suitable chart types
-* [ ] Label charts properly
-* [ ] Avoid misleading visualisations
-* [ ] Explain what each chart contributes
+### 7. Findings
 
----
+Identify at least five meaningful findings.
 
-## 7️⃣ Findings
+### 8. Recommendations
 
-Identify at least **five meaningful findings** supported by data.
-
----
-
-## 8️⃣ Recommendations
-
-Translate your findings into evidence-based recommendations for BIH.
+Provide evidence-based recommendations or areas for further investigation.
 
 ---
 
 # 📁 Recommended Project Structure
 
 ```text
-BIH-data-analysis/
+BIH-data-foundations/
 │
 ├── data/
 │   ├── raw/
@@ -891,49 +781,38 @@ BIH-data-analysis/
 └── requirements.txt
 ```
 
-> 🔒 **Never overwrite your original raw datasets.**
+> 🔒 Never overwrite the original raw datasets.
 
 ---
 
-# 9. Progress Checklist
+# 10. Progress Checklist
 
 ## 🐍 Python
 
 * [ ] Main Python for Data course
-* [ ] Beginner Python resource
-* [ ] Variables
+* [ ] Beginner Python tutorial
 * [ ] Data types
 * [ ] Conditions
 * [ ] Loops
-* [ ] Lists
-* [ ] Dictionaries
+* [ ] Collections
 * [ ] Functions
 * [ ] Exceptions
 
----
-
 ## 🔢 NumPy
 
-* [ ] NumPy Resource 1
-* [ ] NumPy Resource 2
+* [ ] NumPy tutorial 1
+* [ ] NumPy tutorial 2
 * [ ] Arrays
-* [ ] Shape
 * [ ] Indexing
 * [ ] Filtering
 * [ ] Aggregation
-* [ ] Vectorized operations
 * [ ] Broadcasting
-
----
 
 ## 🐼 Pandas
 
 * [ ] Pandas tutorial
 * [ ] DataFrames
 * [ ] Data inspection
-* [ ] CSV files
-* [ ] Excel files
-* [ ] Data types
 * [ ] Missing data
 * [ ] Duplicates
 * [ ] Filtering
@@ -942,18 +821,14 @@ BIH-data-analysis/
 * [ ] Aggregation
 * [ ] Merge / Join
 
----
-
 ## 🧹 Data Quality
 
 * [ ] Missing-value analysis
 * [ ] Duplicate detection
 * [ ] Category standardisation
 * [ ] Type conversion
-* [ ] Validation
 * [ ] Transformation documentation
-
----
+* [ ] Validation
 
 ## 📊 Visualization
 
@@ -965,240 +840,30 @@ BIH-data-analysis/
 * [ ] Appropriate chart selection
 * [ ] Interpretation
 
----
-
 ## 🏢 BIH Labs
 
 * [ ] Participant Registration
-* [ ] Project Evaluation Engine
-* [ ] NumPy Innovation Scores
-* [ ] Community Participant Dataset
+* [ ] Project Evaluation
+* [ ] NumPy Project Scores
+* [ ] Community Dataset
 * [ ] Data Cleaning
 * [ ] Multi-Table Analysis
-* [ ] Community Visualizations
+* [ ] Community Visualization
 * [ ] EDA Case Study
-* [ ] BIH Beginner Data Project
+* [ ] Common Data Project
 
----
 
-# 10. Specialisation Paths
-
-After completing the common foundation, choose a path.
-
----
-
-# 📊 Data Analyst
-
-Focus on turning data into understandable business information and decisions.
-
-### Continue With
-
-```text
-Excel
-  ↓
-SQL
-  ↓
-Advanced Pandas
-  ↓
-Statistics
-  ↓
-Power BI
-  ↓
-Tableau
-  ↓
-Dashboard Design
-  ↓
-Business Analysis
-  ↓
-Data Storytelling
-```
-
-### Core Skills
-
-* [ ] Excel
-* [ ] Advanced spreadsheets
-* [ ] SQL
-* [ ] Data cleaning
-* [ ] Statistical summaries
-* [ ] Dashboard design
-* [ ] Power BI
-* [ ] Tableau
-* [ ] KPI design
-* [ ] Data storytelling
-* [ ] Business recommendations
-
----
-
-# 🧠 Data Scientist
-
-Focus on statistical reasoning, predictive models, experimentation, and machine learning.
-
-### Continue With
-
-```text
-Statistics
-   ↓
-Probability
-   ↓
-Advanced Python
-   ↓
-NumPy / Pandas
-   ↓
-Data Visualization
-   ↓
-Machine Learning
-   ↓
-Model Evaluation
-   ↓
-Feature Engineering
-   ↓
-Experiments
-   ↓
-ML Projects
-```
-
-### Core Skills
-
-* [ ] Probability
-* [ ] Statistics
-* [ ] Hypothesis testing
-* [ ] Regression
-* [ ] Classification
-* [ ] Feature engineering
-* [ ] Machine learning
-* [ ] Model evaluation
-* [ ] Experiment design
-* [ ] Scientific communication
-
----
-
-# ⚙️ Data Engineer
-
-Focus on building reliable systems for collecting, transforming, storing, and serving data.
-
-### Continue With
-
-```text
-Advanced SQL
-     ↓
-Database Design
-     ↓
-Linux / Bash
-     ↓
-Python
-     ↓
-ETL / ELT
-     ↓
-Data Modeling
-     ↓
-Data Warehousing
-     ↓
-Airflow
-     ↓
-Spark
-     ↓
-Cloud Platforms
-     ↓
-Production Pipelines
-```
-
-### Core Skills
-
-* [ ] Advanced SQL
-* [ ] Relational databases
-* [ ] Database design
-* [ ] Linux
-* [ ] Bash
-* [ ] Python
-* [ ] ETL / ELT
-* [ ] Data modelling
-* [ ] Data warehouses
-* [ ] Data lakes
-* [ ] Airflow
-* [ ] Spark
-* [ ] Cloud data platforms
-* [ ] Pipeline monitoring
-* [ ] Data quality
-
----
-
-# 🎮 Recommended Interactive Learning
-
-Use these resources throughout the programme.
-
-### 🐍 CheckiO
-
-**[Python Missions →](https://py.checkio.org/)**
-
-### ⚔️ CodeCombat
-
-**[Learn Through Gameplay →](https://codecombat.com/)**
-
-### 🕹️ CodinGame
-
-**[Programming Challenges →](https://www.codingame.com/)**
-
-### 📓 Google Colab
-
-**[Open Google Colab →](https://colab.research.google.com/)**
-
-Use Colab to practise Python and data analysis without installing a local environment.
-
-### 🧪 Kaggle
-
-**[Kaggle Learn & Datasets →](https://www.kaggle.com/)**
-
-Use Kaggle later for:
-
-* Real datasets
-* Notebooks
-* Data-cleaning practice
-* Visualization
-* Machine learning
-* Portfolio projects
-
----
-
-# 🚀 Complete Data Progression
-
-```text
-🐍 Python Fundamentals
-          ↓
-🔢 NumPy
-          ↓
-🐼 Pandas
-          ↓
-🧹 Data Cleaning
-          ↓
-🔗 Multiple Tables
-          ↓
-📊 Visualization
-          ↓
-🔎 Exploratory Data Analysis
-          ↓
-🏗️ BIH Data Project
-          ↓
-      SHARED FOUNDATION
-          │
- ┌────────┼─────────┐
- │        │         │
- ▼        ▼         ▼
-📊       🧠        ⚙️
-Analyst Scientist Engineer
-```
-
----
 
 # 💡 Learning Principle
 
-Do not measure progress by:
+Do not measure progress by tutorial hours.
 
-> **"I watched ten hours of Python tutorials."**
-
-Measure progress by whether you can receive unfamiliar data and:
+Measure whether you can receive unfamiliar data and:
 
 ```text
 📥 Understand
+     ↓
+🔎 Inspect
      ↓
 🧹 Clean
      ↓
@@ -1211,19 +876,6 @@ Measure progress by whether you can receive unfamiliar data and:
 📈 Visualize
      ↓
 🧠 Explain
-     ↓
-🎯 Recommend
 ```
 
-A professional data practitioner should be able to explain:
-
-* Where the data came from
-* What its limitations are
-* What transformations were performed
-* Why those transformations were necessary
-* Whether the results can be trusted
-* What patterns were discovered
-* What conclusions are justified
-* What decisions the evidence supports
-
-> **The objective is not simply to produce numbers. The objective is to transform data into trustworthy evidence that supports better decisions.**
+> **The shared goal is to become capable of turning raw data into reliable, understandable information. Specialisation comes after this foundation.**
