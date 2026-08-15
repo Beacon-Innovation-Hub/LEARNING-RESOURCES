@@ -1,6 +1,6 @@
 # 📊 Data Analyst Learning Path
 
-> Transform raw data into reliable insights, clear visualizations, useful dashboards, and evidence-based recommendations.
+> Transform raw data into reliable insights, useful dashboards, clear reports, and evidence-based recommendations.
 
 ![Path](https://img.shields.io/badge/Path-Data%20Analyst-blue)
 ![Level](https://img.shields.io/badge/Level-Beginner%20→%20Advanced-success)
@@ -8,7 +8,7 @@
 ![BIH](https://img.shields.io/badge/Case%20Studies-Beacon%20Innovation%20Hub-purple)
 
 **Learning Model:**  
-🎥 Learn → 📚 Read → 🧩 Practice → 🔎 Analyse → 📊 Visualize → 🧠 Interpret → 🎯 Recommend
+🎥 Learn → 📚 Read → 🎮 Practice → 🔎 Analyse → 📊 Visualize → 🧠 Interpret → 🎯 Recommend
 
 ---
 
@@ -16,15 +16,14 @@
 
 Before starting this pathway, complete:
 
-**[📊 Common Data Foundations](data-foundations.md)**
+**[📊 Common Data Foundations](Python-For-Data.md)**
 
 You should already understand:
 
 - [ ] Python fundamentals
-- [ ] NumPy fundamentals
+- [ ] NumPy
 - [ ] Pandas
 - [ ] DataFrames
-- [ ] CSV/Excel data
 - [ ] Missing values
 - [ ] Data cleaning
 - [ ] Data types
@@ -70,20 +69,16 @@ You should already understand:
 
 **Level:** 🟢 Beginner
 
-Before learning more tools, understand what a Data Analyst actually does.
-
 [![Introduction to Data Analysis](https://img.youtube.com/vi/37x5dKW-X5U/maxresdefault.jpg)](https://youtu.be/37x5dKW-X5U)
 
 ## 🎥 Introduction Resource
 
 **[▶ Watch: Introduction to Data Analysis](https://youtu.be/37x5dKW-X5U)**
 
----
-
-## 🎯 Understand
+### 🎯 Understand
 
 - [ ] What data analysis is
-- [ ] What Data Analysts do
+- [ ] What a Data Analyst does
 - [ ] Types of data
 - [ ] Structured vs unstructured data
 - [ ] Business questions
@@ -97,8 +92,6 @@ Before learning more tools, understand what a Data Analyst actually does.
 ---
 
 # 🧠 The Analyst Workflow
-
-A Data Analyst should be able to move from:
 
 ```text
 ❓ BUSINESS QUESTION
@@ -120,11 +113,7 @@ A Data Analyst should be able to move from:
 📋 DECISION SUPPORT
 ```
 
-> A chart is not the final product.
-
-The analyst should be able to explain:
-
-> **What happened, why does it matter, and what should decision-makers investigate or do next?**
+> A chart is not the final product. A Data Analyst should explain what happened, why it matters, and what decision-makers should investigate or do next.
 
 ---
 
@@ -137,8 +126,6 @@ The analyst should be able to explain:
 ## 🎥 Continuing Resource
 
 **[▶ Continue Data Analysis Learning](https://www.youtube.com/watch?v=qrbf9DtR3_c)**
-
-Use this resource to strengthen your practical analytical workflow.
 
 ---
 
@@ -175,25 +162,23 @@ The fictional dataset represents activity within the Beacon Innovation Hub commu
 
 # 🏢 BIH Lab 01 — Understand the Dataset
 
-Before cleaning or analysing anything:
+Before cleaning or analysing:
 
 - [ ] Determine dataset dimensions
-- [ ] Identify all variables
+- [ ] Identify variables
 - [ ] Inspect data types
 - [ ] Identify categorical variables
 - [ ] Identify numerical variables
 - [ ] Count missing values
-- [ ] Check duplicate records
+- [ ] Check duplicates
 - [ ] Inspect unique categories
 - [ ] Generate descriptive statistics
 
 Ask:
 
-> **What does each row represent?**
-
-> **What does each column measure?**
-
-> **What limitations might this dataset have?**
+- What does each row represent?
+- What does each column measure?
+- What limitations might this dataset have?
 
 ---
 
@@ -203,7 +188,7 @@ Investigate:
 
 - [ ] Missing values
 - [ ] Duplicate records
-- [ ] Incorrect types
+- [ ] Incorrect data types
 - [ ] Inconsistent categories
 - [ ] Invalid numerical values
 - [ ] Suspicious dates
@@ -227,8 +212,6 @@ Use:
 
 ## 📝 Cleaning Log
 
-Maintain a cleaning record.
-
 | Problem | Evidence | Decision | Transformation | Validation |
 |---|---|---|---|---|
 | Inconsistent team names | Unique values | Standardize | Replace variations | Recheck categories |
@@ -243,7 +226,7 @@ Maintain a cleaning record.
 Answer:
 
 - [ ] How many participants are represented?
-- [ ] How many belong to each technical team?
+- [ ] How many belong to each team?
 - [ ] What percentage belongs to each team?
 - [ ] What is the experience-level distribution?
 - [ ] What is average attendance?
@@ -256,7 +239,7 @@ Answer:
 
 # 🏢 BIH Lab 04 — Team Analysis
 
-Compare technical teams using:
+Compare teams using:
 
 - [ ] Participant count
 - [ ] Attendance
@@ -288,7 +271,7 @@ Projects Completed
 Review Scores
 ```
 
-### Questions
+Questions:
 
 - [ ] Is attendance associated with project completion?
 - [ ] Are training hours associated with review performance?
@@ -305,8 +288,6 @@ Review Scores
 # 03 — 📑 Spreadsheet Analysis
 
 **Level:** 🟡 Intermediate
-
-Data Analysts should be comfortable analysing structured data using spreadsheet tools.
 
 ## 🎯 Learn
 
@@ -349,7 +330,7 @@ Create a spreadsheet analysis answering:
 
 ---
 
-## 📊 Build a PivotTable
+## 📊 PivotTable Challenge
 
 Create:
 
@@ -370,101 +351,311 @@ Then create appropriate PivotCharts.
 
 **Level:** 🟡 Intermediate
 
-SQL is a core Data Analyst skill because organisational data commonly lives inside relational databases.
+SQL is one of the most important tools for analysts because organisational data is commonly stored across relational database tables.
 
-## 🎯 Learn
+[![SQL for Data Analytics](https://img.youtube.com/vi/7mz73uXD9DA/maxresdefault.jpg)](https://youtu.be/7mz73uXD9DA)
 
-- [ ] `SELECT`
-- [ ] `FROM`
-- [ ] `WHERE`
-- [ ] `ORDER BY`
-- [ ] `DISTINCT`
-- [ ] `LIMIT`
-- [ ] Aliases
-- [ ] `CASE`
-- [ ] `COUNT`
-- [ ] `SUM`
-- [ ] `AVG`
-- [ ] `MIN`
-- [ ] `MAX`
-- [ ] `GROUP BY`
-- [ ] `HAVING`
-- [ ] `INNER JOIN`
-- [ ] `LEFT JOIN`
-- [ ] Subqueries
-- [ ] CTEs
-- [ ] Window functions
+## 🎥 Main SQL Course
+
+**[▶ SQL for Data Analytics — Learn SQL in 4 Hours](https://youtu.be/7mz73uXD9DA)**
+
+Recommended workflow:
+
+```text
+🎥 Watch Concept
+      ↓
+⌨️ Write Query
+      ↓
+🔧 Modify Query
+      ↓
+❓ Answer a BIH Question
+      ↓
+🎮 Complete Interactive Exercise
+      ↓
+📚 Consult Documentation
+```
 
 ---
 
-## 📚 Documentation
+## 🎯 SQL Fundamentals
 
-**[📘 PostgreSQL Documentation](https://www.postgresql.org/docs/)**
+- [ ] Relational databases
+- [ ] Tables
+- [ ] Rows
+- [ ] Columns
+- [ ] Primary keys
+- [ ] Foreign keys
+- [ ] `SELECT`
+- [ ] `FROM`
+- [ ] `WHERE`
+- [ ] `DISTINCT`
+- [ ] `ORDER BY`
+- [ ] `LIMIT`
+- [ ] Aliases
 
-**[📘 SQLBolt Interactive Lessons](https://sqlbolt.com/)**
+---
 
-**[🎮 SQL Murder Mystery](https://mystery.knightlab.com/)**
+## Filtering
+
+```sql
+WHERE
+AND
+OR
+NOT
+IN
+BETWEEN
+LIKE
+IS NULL
+```
+
+---
+
+## Aggregation
+
+```sql
+COUNT()
+SUM()
+AVG()
+MIN()
+MAX()
+GROUP BY
+HAVING
+```
+
+---
+
+## Conditional Logic
+
+```sql
+CASE
+    WHEN ...
+    THEN ...
+    ELSE ...
+END
+```
+
+---
+
+## JOINs
+
+- [ ] `INNER JOIN`
+- [ ] `LEFT JOIN`
+- [ ] Join keys
+- [ ] One-to-many relationships
+- [ ] Many-to-many relationships
+- [ ] Duplicate rows from incorrect joins
+- [ ] Unmatched records
+
+---
+
+## Intermediate SQL
+
+- [ ] Subqueries
+- [ ] Common Table Expressions
+- [ ] `WITH`
+- [ ] Date functions
+- [ ] String functions
+- [ ] Numeric functions
+- [ ] Null handling
+
+---
+
+## Analytical SQL
+
+- [ ] Window functions
+- [ ] `ROW_NUMBER()`
+- [ ] `RANK()`
+- [ ] `DENSE_RANK()`
+- [ ] `PARTITION BY`
+- [ ] Running totals
+- [ ] Ranking within groups
+
+---
+
+# 📚 SQL Documentation
+
+**[PostgreSQL Documentation](https://www.postgresql.org/docs/)**
 
 ---
 
 # 🎮 Interactive SQL Practice
 
-Use **SQLBolt** to learn queries interactively.
+## SQLBolt
 
-Then attempt **SQL Murder Mystery** to apply SQL as an investigation.
+**[🚀 Learn SQL Interactively](https://sqlbolt.com/)**
 
-The objective is to become comfortable asking questions directly from relational data.
+## SQL Murder Mystery
+
+**[🕵️ Solve the SQL Murder Mystery](https://mystery.knightlab.com/)**
 
 ---
 
-# 🏢 BIH Lab 07 — BIH Database
+# 🏢 BIH SQL Database
 
 Imagine BIH maintains:
 
 ```text
 participants
+teams
 projects
 project_members
-reviews
 attendance
+training
+reviews
 ```
 
-Write SQL queries to determine:
+### `participants`
 
-- [ ] Number of participants
-- [ ] Participants per team
-- [ ] Average attendance
-- [ ] Average attendance by team
-- [ ] Number of active projects
-- [ ] Participants working on multiple projects
-- [ ] Average review score by project
-- [ ] Highest-performing projects
-- [ ] Participants without project assignments
-- [ ] Most active technical team
+```text
+participant_id
+participant_name
+team_id
+experience_level
+join_date
+```
+
+### `teams`
+
+```text
+team_id
+team_name
+```
+
+### `projects`
+
+```text
+project_id
+project_name
+project_category
+project_status
+start_date
+```
+
+### `project_members`
+
+```text
+project_id
+participant_id
+project_role
+```
+
+### `attendance`
+
+```text
+attendance_id
+participant_id
+session_date
+attendance_status
+```
+
+### `training`
+
+```text
+training_id
+participant_id
+training_name
+hours_completed
+completion_date
+```
+
+### `reviews`
+
+```text
+review_id
+project_id
+participant_id
+review_score
+review_date
+```
 
 ---
 
-# ⭐ SQL Challenge
+# 🏢 BIH SQL Lab 01 — Basic Queries
+
+- [ ] Display all participants
+- [ ] Display participant names
+- [ ] Display unique experience levels
+- [ ] Find Data Science participants
+- [ ] Find participants who joined after a date
+- [ ] Sort by joining date
+- [ ] Display the first 10 participants
+
+---
+
+# 🏢 BIH SQL Lab 02 — Aggregation
 
 Answer:
 
-> **Who are the five most active participants?**
+- [ ] Number of participants
+- [ ] Participants per experience level
+- [ ] Participants per team
+- [ ] Number of projects
+- [ ] Number of active projects
+- [ ] Projects per category
+- [ ] Average review score
+- [ ] Highest review score
+- [ ] Lowest review score
 
-But first define what **active** means.
+---
 
-Your definition may consider:
+# 🏢 BIH SQL Lab 03 — JOINs
+
+Combine:
 
 ```text
-Attendance
-+
-Project Participation
-+
-Task Completion
-+
-Training Activity
+Participants
+      +
+Teams
 ```
 
-Explain your metric.
+Then:
+
+```text
+Participants
+      +
+Project Members
+      +
+Projects
+```
+
+Answer:
+
+- [ ] Which participants have projects?
+- [ ] Which participants have no project assignment?
+- [ ] Which projects have the largest teams?
+- [ ] Which team contributes most participants to projects?
+- [ ] Which participants work on multiple projects?
+
+---
+
+## 🧩 JOIN Validation
+
+After every join ask:
+
+```text
+How many rows existed before?
+
+How many exist afterwards?
+
+Was the increase expected?
+
+Did records disappear?
+
+Were records duplicated?
+```
+
+---
+
+# 🏢 BIH SQL Lab 04 — Advanced Analytics
+
+Practice:
+
+- [ ] Performance categories with `CASE`
+- [ ] Participant summaries with CTEs
+- [ ] Overall participant ranking
+- [ ] Ranking within teams
+- [ ] Running totals
+- [ ] Window functions
 
 ---
 
@@ -472,11 +663,7 @@ Explain your metric.
 
 **Level:** 🟡 Intermediate
 
-Statistics helps analysts determine whether observed patterns are meaningful.
-
-## 🎯 Learn
-
-### Descriptive Statistics
+## 🎯 Descriptive Statistics
 
 - [ ] Mean
 - [ ] Median
@@ -489,38 +676,34 @@ Statistics helps analysts determine whether observed patterns are meaningful.
 - [ ] Percentiles
 - [ ] Quartiles
 
-### Distributions
+## Distributions
 
 - [ ] Distribution shape
 - [ ] Skewness
 - [ ] Outliers
 - [ ] Normal distribution
 
-### Relationships
+## Relationships
 
 - [ ] Covariance
 - [ ] Correlation
 - [ ] Scatter plots
 
-### Statistical Reasoning
+## Statistical Reasoning
 
 - [ ] Population vs sample
 - [ ] Sampling
 - [ ] Sampling bias
 - [ ] Confidence intervals
-- [ ] Hypothesis testing fundamentals
+- [ ] Hypothesis-testing fundamentals
 - [ ] Statistical significance
 - [ ] Practical significance
 
 ---
 
-# 🏢 BIH Lab 08 — Statistical Investigation
+# 🏢 BIH Lab 07 — Statistical Investigation
 
-Investigate:
-
-### Attendance
-
-Calculate:
+Calculate for attendance:
 
 - [ ] Mean
 - [ ] Median
@@ -529,13 +712,7 @@ Calculate:
 - [ ] Minimum
 - [ ] Maximum
 
-Then compare attendance across technical teams.
-
----
-
-### Engagement
-
-Investigate correlations between:
+Investigate:
 
 ```text
 Attendance ↔ Projects Completed
@@ -545,15 +722,13 @@ Training Hours ↔ Review Score
 Task Completion ↔ Review Score
 ```
 
-Explain what the correlations do **and do not** tell you.
+Explain what the relationships do and do not imply.
 
 ---
 
 # 06 — 📊 Power BI
 
 **Level:** 🟡 Intermediate
-
-Power BI allows analysts to transform analysis into interactive reports and dashboards.
 
 [![Learn Power BI](https://img.youtube.com/vi/I0vQ_VLZTWg/maxresdefault.jpg)](https://www.youtube.com/watch?v=I0vQ_VLZTWg)
 
@@ -565,13 +740,10 @@ Power BI allows analysts to transform analysis into interactive reports and dash
 
 ## 📚 Official Documentation
 
-**[📘 Microsoft Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)**
-
-**[📘 Power BI Fundamentals](https://learn.microsoft.com/en-us/power-bi/fundamentals/)**
-
-**[📘 Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started)**
-
-**[📘 Power BI Visualizations](https://learn.microsoft.com/en-us/power-bi/visuals/)**
+- **[Power BI Documentation](https://learn.microsoft.com/en-us/power-bi/)**
+- **[Power BI Fundamentals](https://learn.microsoft.com/en-us/power-bi/fundamentals/)**
+- **[Power BI Desktop](https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started)**
+- **[Power BI Visualizations](https://learn.microsoft.com/en-us/power-bi/visuals/)**
 
 ---
 
@@ -588,48 +760,28 @@ Power BI allows analysts to transform analysis into interactive reports and dash
 - [ ] Slicers
 - [ ] Cards
 - [ ] Tables
-- [ ] Charts
 - [ ] Reports
 - [ ] Dashboards
 
 ---
 
-# 🏢 BIH Lab 09 — Community Dashboard
+# 🏢 BIH Lab 08 — Community Dashboard
 
-Import:
-
-```text
-bih_data_analyst_practice.csv
-```
-
----
-
-## KPI Cards
-
-Create:
+Create KPI cards:
 
 ```text
 👥 Total Participants
-
 📋 Projects Completed
-
 📅 Average Attendance
-
 ✅ Average Task Completion
-
 ⭐ Average Review Score
-
 ⏱️ Training Hours
 ```
 
----
-
-## Visualizations
-
-Create:
+Create visualizations:
 
 - [ ] Participants by team
-- [ ] Participants by experience
+- [ ] Participants by experience level
 - [ ] Attendance by team
 - [ ] Projects completed by team
 - [ ] Review score by team
@@ -637,11 +789,7 @@ Create:
 - [ ] Project status
 - [ ] Participants joining over time
 
----
-
-## 🎛️ Filters
-
-Add slicers for:
+Add slicers:
 
 - [ ] Technical Team
 - [ ] Experience Level
@@ -654,11 +802,7 @@ Add slicers for:
 
 **Level:** 🟡 Intermediate → 🔴 Advanced
 
-Building professional Power BI reports requires more than dragging fields onto charts.
-
-## 🎯 Learn
-
-### Data Modelling
+## 🎯 Data Modelling
 
 - [ ] Fact tables
 - [ ] Dimension tables
@@ -667,7 +811,7 @@ Building professional Power BI reports requires more than dragging fields onto c
 - [ ] Filter direction
 - [ ] Star schema
 
-### DAX
+## 🎯 DAX
 
 - [ ] Measures
 - [ ] Calculated columns
@@ -682,41 +826,31 @@ Building professional Power BI reports requires more than dragging fields onto c
 
 ---
 
-## 📚 Documentation
+## 📚 DAX Documentation
 
-**[📘 DAX Documentation](https://learn.microsoft.com/en-us/dax/)**
+**[DAX Documentation](https://learn.microsoft.com/en-us/dax/)**
 
 ---
 
-# 🏢 BIH Lab 10 — Create BIH Measures
+# 🏢 BIH Lab 09 — Create Measures
 
-Create measures for:
+Create:
 
 ```text
 Total Participants
-
 Total Projects
-
 Average Attendance
-
 Average Review Score
-
 Project Completion Rate
-
 Average Training Hours
-
 Active Participant Rate
 ```
-
-Do not create unnecessary calculated columns when a measure is more appropriate.
 
 ---
 
 # 08 — 🎯 KPIs & Business Metrics
 
-A Data Analyst should understand that not every number deserves to become a KPI.
-
-## Understand
+## Learn
 
 - [ ] Metric vs KPI
 - [ ] Leading indicators
@@ -725,14 +859,14 @@ A Data Analyst should understand that not every number deserves to become a KPI.
 - [ ] Benchmarks
 - [ ] Rates
 - [ ] Ratios
-- [ ] Percent change
+- [ ] Percentage change
 - [ ] KPI context
 
 ---
 
-# 🏢 BIH Lab 11 — Design BIH KPIs
+# 🏢 BIH Lab 10 — Design KPIs
 
-Suppose BIH wants to monitor:
+Design KPIs for:
 
 ```text
 Community Growth
@@ -743,31 +877,18 @@ Project Completion
 Technical Performance
 ```
 
-Design appropriate KPIs.
+For each KPI explain:
 
-For every KPI explain:
-
-### Definition
-
-What exactly does it measure?
-
-### Formula
-
-How is it calculated?
-
-### Purpose
-
-Why does BIH need it?
-
-### Limitation
-
-How could the metric be misleading?
+- Definition
+- Formula
+- Purpose
+- Limitation
 
 ---
 
-# 🧠 BIH Engagement Score Challenge
+# 🧠 Engagement Score Challenge
 
-Design:
+Example:
 
 ```text
 Attendance          30%
@@ -776,7 +897,7 @@ Training Activity   20%
 Projects Completed  20%
 ```
 
-Then classify:
+Classify:
 
 ```text
 80–100     Highly Engaged
@@ -785,26 +906,13 @@ Then classify:
 Below 50   Requires Attention
 ```
 
-But answer:
-
-> **Why could this metric be unfair or misleading?**
-
-Consider:
-
-- Arbitrary weighting
-- Different roles
-- Project difficulty
-- Missing data
-- Quality vs quantity
-- Availability differences
+Then explain why the score may be misleading.
 
 ---
 
 # 09 — 📈 Dashboard Design
 
-A dashboard should reduce complexity rather than create more of it.
-
-## Recommended Structure
+A dashboard should reduce complexity.
 
 ```text
 ┌─────────────────────────────────────────┐
@@ -812,9 +920,7 @@ A dashboard should reduce complexity rather than create more of it.
 ├────────┬────────┬────────┬──────────────┤
 │Members │Projects│Attend. │Review Score  │
 ├────────┴────────┴────────┴──────────────┤
-│                                         │
 │          PRIMARY ANALYSIS               │
-│                                         │
 ├───────────────────┬─────────────────────┤
 │ Team Performance  │ Engagement Trends   │
 ├───────────────────┴─────────────────────┤
@@ -824,9 +930,7 @@ A dashboard should reduce complexity rather than create more of it.
 └─────────────────────────────────────────┘
 ```
 
----
-
-## Dashboard Principles
+## Principles
 
 - [ ] Clear visual hierarchy
 - [ ] Important KPIs first
@@ -836,17 +940,14 @@ A dashboard should reduce complexity rather than create more of it.
 - [ ] Useful filters
 - [ ] Context for metrics
 - [ ] Readable titles
-- [ ] Logical grouping
 
-Before adding a chart ask:
+Ask:
 
-> **What decision does this visualization help someone make?**
+> What decision does this visualization help someone make?
 
 ---
 
 # 10 — 🧠 Data Storytelling
-
-Data analysis becomes valuable when findings can be communicated clearly.
 
 Use:
 
@@ -869,27 +970,19 @@ What should happen next?
 
 ---
 
-# 🏢 BIH Lab 12 — Management Brief
+# 🏢 BIH Lab 11 — Management Brief
 
-Imagine you have **five minutes** to brief BIH leadership.
-
-Present:
+Prepare:
 
 ### 3 Key Findings
 
-What should leadership know?
-
 ### 2 Risks
-
-What requires attention?
 
 ### 3 Recommendations
 
-What should be investigated or changed?
+### 1 Major Limitation
 
-### 1 Limitation
-
-What important question cannot be answered from the available dataset?
+The objective is to communicate only the most decision-relevant information.
 
 ---
 
@@ -899,19 +992,17 @@ What important question cannot be answered from the available dataset?
 
 ## Business Question
 
-> **How effectively is the Beacon Innovation Hub community engaging participants, developing technical skills, and supporting project activity?**
+> How effectively is Beacon Innovation Hub engaging participants, developing technical skills, and supporting project activity?
 
 ---
 
 ## Phase 1 — Business Understanding
 
-Define:
-
-- [ ] Main question
-- [ ] Stakeholders
-- [ ] Relevant metrics
-- [ ] Scope
-- [ ] Limitations
+- [ ] Define the main question
+- [ ] Identify stakeholders
+- [ ] Define relevant metrics
+- [ ] Define scope
+- [ ] Identify limitations
 
 ---
 
@@ -929,8 +1020,6 @@ Define:
 
 ## Phase 3 — Analysis
 
-Investigate:
-
 - [ ] Community composition
 - [ ] Technical teams
 - [ ] Attendance
@@ -940,13 +1029,11 @@ Investigate:
 - [ ] Review performance
 - [ ] Engagement
 - [ ] Trends
-- [ ] Potential areas requiring intervention
+- [ ] Areas requiring investigation
 
 ---
 
 ## Phase 4 — Statistics
-
-Include:
 
 - [ ] Descriptive statistics
 - [ ] Distribution analysis
@@ -956,37 +1043,41 @@ Include:
 
 ---
 
-## Phase 5 — Power BI
+## Phase 5 — SQL
+
+Use SQL to answer at least ten management questions.
+
+Include:
+
+- [ ] Aggregation
+- [ ] JOINs
+- [ ] CASE
+- [ ] CTEs
+- [ ] Window functions
+
+---
+
+## Phase 6 — Power BI
 
 Create:
 
 ### Page 1 — Executive Overview
 
-KPIs and major trends.
-
 ### Page 2 — Team Performance
-
-Technical-team comparisons.
 
 ### Page 3 — Participant Engagement
 
-Attendance, training and project activity.
-
 ### Page 4 — Project Analysis
 
-Project categories, status and performance.
+---
+
+## Phase 7 — Findings
+
+Provide at least **five evidence-supported findings**.
 
 ---
 
-## Phase 6 — Findings
-
-Provide at least **five meaningful findings**.
-
-Each finding must include evidence.
-
----
-
-## Phase 7 — Recommendations
+## Phase 8 — Recommendations
 
 Provide at least **three actionable recommendations**.
 
@@ -1053,14 +1144,13 @@ BIH-data-analyst/
 
 ## 🗄️ SQL
 
+- [ ] Main SQL course
 - [ ] SELECT
-- [ ] Filtering
-- [ ] Aggregations
+- [ ] WHERE
 - [ ] GROUP BY
 - [ ] HAVING
 - [ ] JOINs
 - [ ] CASE
-- [ ] Subqueries
 - [ ] CTEs
 - [ ] Window functions
 - [ ] SQLBolt
@@ -1093,8 +1183,8 @@ BIH-data-analyst/
 
 - [ ] Measures
 - [ ] Calculated columns
-- [ ] CALCULATE
-- [ ] DIVIDE
+- [ ] `CALCULATE`
+- [ ] `DIVIDE`
 - [ ] Filter context
 - [ ] Time intelligence fundamentals
 
@@ -1128,7 +1218,7 @@ BIH-data-analyst/
 
 Do not build a portfolio containing only screenshots.
 
-Each project repository should explain:
+Every project should explain:
 
 ```text
 ❓ Problem
@@ -1148,21 +1238,20 @@ Each project repository should explain:
 ⚠️ Limitations
 ```
 
-A recruiter or reviewer should be able to understand:
+A reviewer should be able to understand:
 
-> **What problem did you solve?**
-
-> **How did you solve it?**
-
-> **What did you discover?**
-
-> **Why does the result matter?**
+- What problem did you solve?
+- What data did you use?
+- How did you prepare it?
+- What did you discover?
+- Why does the result matter?
+- What are the limitations?
 
 ---
 
 # 🚀 Completion
 
-When you can independently receive unfamiliar organisational data and:
+A developing Data Analyst should eventually be able to receive unfamiliar organisational data and independently:
 
 ```text
 ❓ Define the Question
@@ -1184,6 +1273,4 @@ When you can independently receive unfamiliar organisational data and:
 📢 Communicate
 ```
 
-you are moving beyond simply learning analytics tools and toward **professional analytical problem-solving**.
-
-> **A Data Analyst's value is not determined by how many tools they know. It is determined by their ability to turn reliable evidence into information that helps people make better decisions.**
+> **A Data Analyst's value is not determined by how many tools they know. It is determined by their ability to turn trustworthy evidence into information that supports better decisions.**
