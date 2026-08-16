@@ -663,6 +663,9 @@ Practice:
 
 **Level:** 🟡 Intermediate
 
+[![Statistics for Data Analysts](https://img.youtube.com/vi/IYVEI1EYfPg/maxresdefault.jpg)](https://youtu.be/IYVEI1EYfPg?si=16Jr0l9XP49_15H5)
+
+
 ## 🎯 Descriptive Statistics
 
 - [ ] Mean
@@ -802,6 +805,10 @@ Add slicers:
 
 **Level:** 🟡 Intermediate → 🔴 Advanced
 
+
+[![Data Modelling](https://img.youtube.com/vi/lD7TvkoQ6rY/maxresdefault.jpg)](https://youtu.be/lD7TvkoQ6rY?si=jHSGMWV2JWTPeAAI)
+
+
 ## 🎯 Data Modelling
 
 - [ ] Fact tables
@@ -810,6 +817,9 @@ Add slicers:
 - [ ] Cardinality
 - [ ] Filter direction
 - [ ] Star schema
+
+[![DAX](https://img.youtube.com/vi/4ePNrdxWtY0/maxresdefault.jpg)](https://youtu.be/4ePNrdxWtY0?si=PbEoaDiEgBxuuJuI)
+
 
 ## 🎯 DAX
 
