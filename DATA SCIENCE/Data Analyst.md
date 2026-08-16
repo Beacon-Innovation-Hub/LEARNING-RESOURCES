@@ -860,6 +860,14 @@ Active Participant Rate
 
 # 08 — 🎯 KPIs & Business Metrics
 
+## 🎥 Video Resource
+
+[![Video Resource](https://img.youtube.com/vi/ItZlTixh6Bs/maxresdefault.jpg)](https://youtu.be/ItZlTixh6Bs?si=hy5ip7hAJKMVMkKC)
+
+**[▶ Watch Video](https://youtu.be/ItZlTixh6Bs?si=hy5ip7hAJKMVMkKC)**
+
+
+
 ## Learn
 
 - [ ] Metric vs KPI
@@ -871,6 +879,9 @@ Active Participant Rate
 - [ ] Ratios
 - [ ] Percentage change
 - [ ] KPI context
+
+
+
 
 ---
 
