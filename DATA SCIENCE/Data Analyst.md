@@ -16,7 +16,7 @@
 
 Before starting this pathway, complete:
 
-**[📊 Common Data Foundations](DATA-SCIENCE/Python-For-Data.md)**
+**[📊 Common Data Foundations](data-foundations.md)**
 
 You should already understand:
 
