@@ -270,7 +270,7 @@ not assign unsupported labels such as "good" or "bad" participants.
 
 ## Level 3 Completion Standard
 
-To progress to the next level attempt and pass [CHALLENGE 3](Challenges/CHALLENGE3), submit the project under Beacon Innovation Hub's Data Science Repository.
+To progress to the next level attempt and pass [CHALLENGE 3](Challenges/CHALLENGE3.md), submit the project under Beacon Innovation Hub's Data Science Repository.
 A learner should independently be able to:
 
 -   [ ] Prepare modelling data without leakage.
