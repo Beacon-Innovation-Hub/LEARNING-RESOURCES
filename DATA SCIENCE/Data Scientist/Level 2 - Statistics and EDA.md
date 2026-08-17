@@ -226,6 +226,8 @@ Practise explaining:
 
 ## Level 2 Completion Standard
 
+To progress to the next level attempt the [CHALLENGE](Challenges/CHALLENGE2.md), submit on your GitHub Beacon Innovation hub Data Science repository.
+
 -   [ ] Perform defensible descriptive analysis.
 -   [ ] Explain sampling and uncertainty.
 -   [ ] Select basic statistical tests appropriately.
