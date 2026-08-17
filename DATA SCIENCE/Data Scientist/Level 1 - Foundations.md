@@ -207,7 +207,7 @@ Explain:
 
 ## Level 1 Completion Standard
 
-To qualify for level 2 for data science complete [Challenge](Data%20Scientist/CHALLENGE.md)
+To qualify for level 2 for data science complete [Challenge](DATA%20SCIENCE/Data%20Scientist/CHALLENGE.md)
 
 Before moving to Level 2, the learner should be able to:
 
