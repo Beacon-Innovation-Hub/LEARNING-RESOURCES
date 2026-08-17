@@ -285,27 +285,38 @@ Questions:
 
 ---
 
-# 03 — 📑 Spreadsheet Analysis
+# 03 — Spreadsheet Analysis
 
-**Level:** 🟡 Intermediate
+**Level:** Beginner → Intermediate
 
-## 🎯 Learn
+Spreadsheets remain an important tool for Data Analysts because they allow
+rapid data exploration, validation, calculation, reporting, and communication
+with business stakeholders.
 
-- [ ] Tables
-- [ ] Sorting
-- [ ] Filtering
+[![Excel for Data Analytics](https://img.youtube.com/vi/pCJ15nGFgVg/maxresdefault.jpg)](https://www.youtube.com/watch?v=pCJ15nGFgVg)
+
+## Main Course
+
+**[Watch: Excel for Data Analytics — Full Course for Beginners](https://www.youtube.com/watch?v=pCJ15nGFgVg)**
+
+## Skills to Develop
+
+- [ ] Excel tables
+- [ ] Sorting and filtering
+- [ ] Data cleaning
 - [ ] Conditional formatting
 - [ ] Data validation
 - [ ] Text functions
 - [ ] Date functions
 - [ ] Logical functions
-- [ ] Lookup functions
-- [ ] `SUMIFS`
-- [ ] `COUNTIFS`
-- [ ] `AVERAGEIFS`
+- [ ] XLOOKUP
+- [ ] SUMIFS
+- [ ] COUNTIFS
+- [ ] AVERAGEIFS
 - [ ] PivotTables
 - [ ] PivotCharts
-- [ ] Basic dashboards
+- [ ] Charts
+- [ ] Basic dashboard development
 
 ---
 
