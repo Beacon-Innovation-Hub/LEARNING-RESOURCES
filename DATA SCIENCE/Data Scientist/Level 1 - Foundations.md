@@ -207,7 +207,7 @@ Explain:
 
 ## Level 1 Completion Standard
 
-To qualify for level 2 for data science complete [Challenge](Challenges/CHALLENGE1.md)
+To qualify for level 2 for data science complete [Challenge](Challenges/CHALLENGE1.md), submit on your GitHub Beacon Innovation hub Data Science repository.
 
 Before moving to Level 2, the learner should be able to:
 
