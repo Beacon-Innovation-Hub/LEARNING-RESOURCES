@@ -668,4 +668,4 @@ Progress from:
 ---
 
 **Beacon Innovation Hub**
-*Where learning becomes competence, and competence becomes impact.*
+*Where ideas transform the Future!.*
