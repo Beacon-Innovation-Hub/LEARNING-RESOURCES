@@ -12,12 +12,12 @@
 |---|---|
 | 1 | [JavaScript Foundations](Level%201%20-%20JavaScript%20Foundations.md) |
 | 2 | [Programming Logic & Data](Level%202%20—%20Programming%20Logic%20%26%20Data.md) |
-| 3 | [DOM & Browser JavaScript](JavaScript/Level%203%20—%20DOM%20%26%20Browser%20JavaScript.md) |
-| 4 | [Modern JavaScript — ES6+](<04 - Level 4 - Modern JavaScript ES6.md>) |
-| 5 | [Asynchronous JavaScript & APIs](<05 - Level 5 - Async JavaScript and APIs.md>) |
-| 6 | [Advanced JavaScript](<06 - Level 6 - Advanced JavaScript.md>) |
-| 7 | [Professional JavaScript](<07 - Level 7 - Professional JavaScript.md>) |
-| 8 | [Real-World JavaScript Projects](<08 - Level 8 - Real World Projects.md>) |
+| 3 | [DOM & Browser JavaScript](Level%203%20—%20DOM%20%26%20Browser%20JavaScript.md) |
+| 4 | [Modern JavaScript — ES6+](Level%204%20—%20Modern%20JavaScript%20(ES6%2B).md) |
+| 5 | [Asynchronous JavaScript & APIs](Level%205%20—%20Asynchronous%20JavaScript%20%26%20APIs.md) |
+| 6 | [Advanced JavaScript](Level%206%20—%20Advanced%20JavaScript.md) |
+| 7 | [Professional JavaScript](Level%207%20—%20Professional%20JavaScript.md) |
+| 8 | [Real-World JavaScript Projects](Level%208%20—%20Real-World%20JavaScript%20Projects.md) |
 
 ## Progression
 
