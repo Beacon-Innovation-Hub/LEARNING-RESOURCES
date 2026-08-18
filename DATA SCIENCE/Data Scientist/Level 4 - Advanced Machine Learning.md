@@ -572,6 +572,8 @@ Before advancing, the learner should be able to:
 
 ---
 
+To accomplish all of that, attempt [CHALLENGE 4](Challenges/CHALLENGE4.md), upon completion of this challenge you will then qualify to move to level 5.
+
 # Ready to Advance?
 
 Successful completion demonstrates readiness for:
