@@ -11,7 +11,7 @@
 | Level | Focus |
 |---|---|
 | 1 | [JavaScript Foundations](Level%201%20-%20JavaScript%20Foundations.md) |
-| 2 | [Programming Logic & Data](<02 - Level 2 - Programming Logic and Data.md>) |
+| 2 | [Programming Logic & Data](Level%202%20—%20Programming%20Logic%20%26%20Data.md) |
 | 3 | [DOM & Browser JavaScript](<03 - Level 3 - DOM and Browser JavaScript.md>) |
 | 4 | [Modern JavaScript — ES6+](<04 - Level 4 - Modern JavaScript ES6.md>) |
 | 5 | [Asynchronous JavaScript & APIs](<05 - Level 5 - Async JavaScript and APIs.md>) |
