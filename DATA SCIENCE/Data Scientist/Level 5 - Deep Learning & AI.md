@@ -204,6 +204,8 @@ Answer:
 
 ## Level 5 Completion Standard
 
+For this level ladies and gentlemen, there will be a series of implementations that one must do to move to the next level. Get access to these by clicking [CHALLENGE 5](Challenges/CHALLENGE5.md)
+
 -   [ ] Build and train a basic neural network.
 -   [ ] Explain backpropagation conceptually.
 -   [ ] Understand CNN architecture.
