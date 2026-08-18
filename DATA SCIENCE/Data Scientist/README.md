@@ -47,7 +47,7 @@ Level 4 — Advanced Machine Learning
       ↓
 Level 5 — Deep Learning & AI
       ↓
-Level 6 — MLOps
+Level 6 — MLOps (still to come)
       ↓
 Final BIH Capstone
 
