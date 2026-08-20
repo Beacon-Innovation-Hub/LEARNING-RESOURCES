@@ -10,7 +10,7 @@ Copy the contents into a .md file in the BIH learning repository to render it on
 
 **Difficulty:** Intermediate
 
-[← Previous Level](<02 - Level 2 - Semantic HTML.md>) · [Next Level →](<04 - Level 4 - HTML Accessibility.md>)
+[← Previous Level](Level%202%20—%20Semantic%20HTML.md) · [Next Level →](Level%204%20—%20HTML%20Accessibility.md)
 
 ---
 
@@ -98,4 +98,4 @@ Test the form without using a mouse. Check whether each field can be understood 
 - [ ] I can use native HTML validation.
 - [ ] I completed the registration-form challenge.
 
-**Next:** [Level 4 — HTML Accessibility →](<04 - Level 4 - HTML Accessibility.md>)
+**Next:** [Level 4 — HTML Accessibility →](Level%204%20—%20HTML%20Accessibility.md)
