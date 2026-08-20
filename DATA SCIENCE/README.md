@@ -1,11 +1,18 @@
-# Beacon Innovation Hub — Data Department
+<div align="center">
 
-> **Structured learning. Demonstrated competence. Real-world impact.**
+# 📊 BEACON INNOVATION HUB — DATA DEPARTMENT
+
+### Structured Learning • Demonstrated Competence • Real-World Impact
 
 ![Field](https://img.shields.io/badge/Department-Data-blue)
 ![Pathways](https://img.shields.io/badge/Specialisations-3-success)
 ![Learning](https://img.shields.io/badge/Learning-Project--Based-orange)
 ![Assessment](https://img.shields.io/badge/Assessment-Competence--Based-red)
+
+**Common Foundation → Specialisation → Competence → Real-World Application**
+
+</div>
+
 
 ---
 
@@ -59,58 +66,19 @@ The repository follows a simple principle:
 
 ---
 
-# The BIH Data Career Path
+# 🧭 The BIH Data Career Path
 
 The Data Department uses a competence-based progression model.
 
-```text
-                    BEGINNER
-                       │
-                       ▼
-              PYTHON FOR DATA
-             Common Foundation
-                       │
-                       ▼
-             COMPETENCE PROJECTS
-                       │
-                       ▼
-              CHOOSE SPECIALISATION
-                       │
-          ┌────────────┼────────────┐
-          │            │            │
-          ▼            ▼            ▼
-       ANALYST      SCIENTIST    ENGINEER
-          │            │            │
-          ▼            ▼            ▼
-       LEVEL 1       LEVEL 1       LEVEL 1
-     Foundations   Foundations   Foundations
-          │            │            │
-          └────────────┼────────────┘
-                       │
-                       ▼
-               COMPETENCE TEST
-                       │
-                       ▼
-                TECHNICAL DEFENCE
-                       │
-                       ▼
-                JUNIOR CERTIFIED
-                       │
-                       ▼
-              REAL-WORLD BIH WORK
-                       │
-                       ▼
-              ADVANCED DEVELOPMENT
-                       │
-                       ▼
-            PROFESSIONAL ASSESSMENT
-                       │
-                       ▼
-             PROFESSIONAL CERTIFIED
-                       │
-                       ▼
-              MAJOR BIH PROJECTS
-```
+| Stage | Focus |
+|---|---|
+| **Beginner** | Build the common Python/data foundation |
+| **Specialisation** | Choose Data Analyst, Data Scientist, or Data Engineer |
+| **Competence Assessment** | Complete projects and defend technical decisions |
+| **Junior** | Demonstrate foundational + specialist competence |
+| **Advanced Development** | Build deeper technical and real-world experience |
+| **Professional** | Demonstrate technical maturity, independence and excellence |
+
 
 ---
 
@@ -128,15 +96,14 @@ All learners must begin with:
 
 **[`Python For Data.md`](Python%20For%20Data.md)**
 
-This is the common technical foundation for:
+This is the common technical foundation for all three pathways:
 
-```text
-Python For Data
-      │
-      ├── Data Analysis
-      ├── Data Science
-      └── Data Engineering
-```
+| Shared Foundation | Specialisation |
+|---|---|
+| **Python for Data** | 📊 Data Analysis |
+| **Python for Data** | 🧠 Data Science |
+| **Python for Data** | ⚙️ Data Engineering |
+
 
 The foundation develops competence in areas such as:
 
@@ -181,9 +148,32 @@ The objective is to determine whether the learner can **apply the skills to unfa
 
 ---
 
-# Stage 3 — Choose a Specialisation
+# 🎯 Stage 3 — Choose a Specialisation
 
 After developing the common foundation, learners proceed into one of three specialisation paths.
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 📊 Data Analyst
+**Analyse • Visualise • Explain**
+
+</td>
+<td width="33%" align="center">
+
+### 🧠 Data Scientist
+**Model • Experiment • Predict**
+
+</td>
+<td width="33%" align="center">
+
+### ⚙️ Data Engineer
+**Collect • Transform • Deliver**
+
+</td>
+</tr>
+</table>
 
 ## Data Analyst
 
@@ -272,49 +262,29 @@ Completing `Python For Data.md` alone does **not** qualify a learner as a Junior
 
 To progress from **Beginner → Junior**, a learner must demonstrate competence in two major areas:
 
-```text
-COMMON FOUNDATION
-Python For Data
-        +
-SPECIALISATION FOUNDATION
-Level 1 of chosen pathway
-        │
-        ▼
-COMPETENCE ASSESSMENT
-        │
-        ▼
-TECHNICAL DEFENCE
-        │
-        ▼
-JUNIOR CLASSIFICATION
-```
+<table>
+<tr>
+<td width="50%" align="center">
 
-For example, an aspiring Data Scientist follows:
+### 🐍 Common Foundation
+**Python for Data**
 
-```text
-Beginner
-   │
-   ▼
-Python For Data
-   │
-   ▼
-Python Competence Projects
-   │
-   ▼
-Data Scientist/
-   │
-   ▼
-Level 1 — Data Science Foundations
-   │
-   ▼
-Specialisation Competence Projects
-   │
-   ▼
-Technical Defence
-   │
-   ▼
-BIH Junior Data Scientist
-```
+</td>
+<td width="50%" align="center">
+
+### 🎯 Specialist Foundation
+**Level 1 of the chosen pathway**
+
+</td>
+</tr>
+</table>
+
+Both are followed by **competence assessment + technical defence** before Junior classification.
+
+
+For example, an aspiring Data Scientist completes:
+
+**Python for Data → Python Competence Projects → Level 1 Data Science → Specialist Competence Projects → Technical Defence → BIH Junior Data Scientist**
 
 The same model applies to Data Analysts and Data Engineers.
 
@@ -407,30 +377,15 @@ Junior certification is an important milestone, but it is not the end of the BIH
 
 Learners may continue through increasingly advanced levels within their specialisation.
 
-```text
-JUNIOR
-   │
-   ▼
-Advanced Learning
-   │
-   ▼
-Advanced Competence Projects
-   │
-   ▼
-Real-World BIH Experience
-   │
-   ▼
-Increasing Technical Responsibility
-   │
-   ▼
-Advanced Technical Defence
-   │
-   ▼
-Professional Assessment
-   │
-   ▼
-PROFESSIONAL
-```
+| Progression | Evidence Required |
+|---|---|
+| **Junior** | Foundational and specialist competence |
+| **Advanced Learning** | Deeper specialist knowledge |
+| **Advanced Projects** | More complex independent application |
+| **Real-World Experience** | Reliable contribution to BIH work |
+| **Professional Assessment** | Technical maturity and sustained performance |
+| **Professional** | High-level independent competence |
+
 
 Professional classification requires substantially more than course completion.
 
@@ -480,23 +435,8 @@ These may include:
 
 Selection for individual projects may still depend on the specific technical requirements, project needs, performance history, and available roles.
 
-The objective is to create a direct relationship between:
+The objective is to create a direct relationship between **learning, demonstrated competence, certification, real experience, and increasing technical responsibility**.
 
-```text
-LEARNING
-   ↓
-COMPETENCE
-   ↓
-CERTIFICATION
-   ↓
-REAL EXPERIENCE
-   ↓
-ADVANCED COMPETENCE
-   ↓
-PROFESSIONAL RESPONSIBILITY
-   ↓
-HIGH-IMPACT PROJECTS
-```
 
 ---
 
@@ -508,26 +448,19 @@ BIH makes an important distinction:
 
 Therefore:
 
-```text
-Watching Videos      ≠ Competence
-Reading              ≠ Competence
-Finishing a Course   ≠ Competence
-Knowing Syntax       ≠ Competence
+| Activity | Does It Prove Competence? |
+|---|---|
+| Watching videos | ❌ No |
+| Reading documentation | ❌ No |
+| Finishing a course | ❌ No |
+| Knowing syntax | ❌ No |
+| Applying skills independently | ✅ Evidence |
+| Solving unfamiliar problems | ✅ Evidence |
+| Defending technical decisions | ✅ Evidence |
+| Producing consistent results | ✅ Evidence |
 
-Knowledge
-   +
-Practice
-   +
-Independent Application
-   +
-Real-World Problem Solving
-   +
-Technical Defence
-   +
-Consistent Performance
-   =
-Demonstrated Competence
-```
+> **Knowledge becomes competence when it can be applied, explained, tested, defended, and improved.**
+
 
 ---
 
@@ -550,33 +483,18 @@ Demonstrated Competence
 
 ---
 
-# How the Data Roles Work Together
+# 🤝 How the Data Roles Work Together
 
 Although the pathways specialise, they are designed to work together.
 
-```text
-                         RAW DATA
-                            │
-                            ▼
-                     DATA ENGINEER
-               Collect • Store • Transform
-                  Build Data Systems
-                            │
-                            ▼
-                       TRUSTED DATA
-                            │
-                 ┌──────────┴──────────┐
-                 │                     │
-                 ▼                     ▼
-           DATA ANALYST          DATA SCIENTIST
-        Analyse & Explain       Model & Predict
-        Build Dashboards        Machine Learning
-        Support Decisions       Experimentation
-                 │                     │
-                 └──────────┬──────────┘
-                            ▼
-                    BETTER SOLUTIONS
-```
+| Role | Contribution |
+|---|---|
+| ⚙️ **Data Engineer** | Collects, stores, transforms and delivers trusted data |
+| 📊 **Data Analyst** | Analyses data, builds dashboards and supports decisions |
+| 🧠 **Data Scientist** | Models patterns, experiments and develops predictive solutions |
+
+**Typical collaboration:** Data Engineer prepares reliable data → Analysts and Scientists use it to produce insights, models and better solutions.
+
 
 Real BIH projects may therefore require collaboration between all three specialisations.
 
@@ -592,18 +510,10 @@ Instead, the learner can proceed into the Data Science pathway and demonstrate t
 
 This supports a **T-shaped competence model**:
 
-```text
-              BROAD DATA FOUNDATION
-────────────────────────────────────────────
- Python • Data • SQL • Git • Quality • Ethics
-                       │
-                       │
-                       ▼
-                SPECIALISATION
-                       │
-                       ▼
-             Deep Technical Competence
-```
+| Breadth | Depth |
+|---|---|
+| Python, data, SQL, Git, quality and ethics | Deep competence in the chosen specialisation |
+
 
 ---
 
@@ -629,7 +539,13 @@ Assessment should therefore prioritise:
 
 ---
 
-# Start Your Path
+<div align="center">
+
+# 🚀 START YOUR DATA PATH
+
+**Foundation first. Specialisation second. Competence throughout.**
+
+</div>
 
 All Data Department members begin with the same foundation:
 
@@ -659,7 +575,11 @@ Progress from:
 
 ---
 
-## Final Principle
+<div align="center">
+
+## 🎯 FINAL PRINCIPLE
+
+</div>
 
 > **At Beacon Innovation Hub, progress is not measured by how much content you have consumed. It is measured by what you can understand, build, defend, improve, and apply to real-world problems.**
 
@@ -669,3 +589,16 @@ Progress from:
 
 **Beacon Innovation Hub**
 *Where ideas transform the Future!.*
+
+
+---
+
+<div align="center">
+
+## 📊 BEACON INNOVATION HUB
+
+**Learn → Apply → Demonstrate → Defend → Contribute**
+
+*Where ideas transform the Future!*
+
+</div>
