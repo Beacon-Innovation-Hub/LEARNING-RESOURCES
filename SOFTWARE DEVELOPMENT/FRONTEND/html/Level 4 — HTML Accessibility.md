@@ -10,7 +10,7 @@ Copy the contents into a .md file in the BIH learning repository to render it on
 
 **Difficulty:** Intermediate → Advanced
 
-[← Previous Level](<03 - Level 3 - Forms and Data Collection.md>) · [Next Level →](<05 - Level 5 - HTML for SEO.md>)
+[← Previous Level](Level%203%20—%20Forms%20%26%20Data%20Collection.md) · [Next Level →](Level%205%20—%20HTML%20for%20SEO.md)
 
 ---
 
@@ -102,4 +102,4 @@ Correct the problems using semantic/native HTML wherever possible.
 - [ ] I understand the basic purpose of ARIA.
 - [ ] I completed an accessibility audit.
 
-**Next:** [Level 5 — HTML for SEO →](<05 - Level 5 - HTML for SEO.md>)
+**Next:** [Level 5 — HTML for SEO →](Level%205%20—%20HTML%20for%20SEO.md)
