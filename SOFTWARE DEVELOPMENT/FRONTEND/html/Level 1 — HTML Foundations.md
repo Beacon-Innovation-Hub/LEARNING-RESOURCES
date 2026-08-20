@@ -10,7 +10,7 @@ Copy the contents into a .md file in the BIH learning repository to render it on
 
 **Difficulty:** Beginner
 
-[← HTML Roadmap](README.md) · [Next Level →](<02 - Level 2 - Semantic HTML.md>)
+[← HTML Roadmap](README.md) · [Next Level →](Level%202%20—%20Semantic%20HTML.md)
 
 ---
 
@@ -82,4 +82,4 @@ html-foundations/
 - [ ] I completed the practice page.
 - [ ] I can explain my markup.
 
-**Next:** [Level 2 — Semantic HTML →](<02 - Level 2 - Semantic HTML.md>)
+**Next:** [Level 2 — Semantic HTML →](Level%202%20—%20Semantic%20HTML.md)
