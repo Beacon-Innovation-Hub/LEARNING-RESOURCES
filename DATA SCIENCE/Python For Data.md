@@ -1,13 +1,19 @@
-# 📊 Common Data Foundations
+<div align="center">
 
-> Build the shared technical foundation required for Data Analytics, Data Science, and Data Engineering.
+# 📊 COMMON DATA FOUNDATIONS
+
+### Shared Foundations for Data Analytics • Data Science • Data Engineering
+
+Build the common technical foundation required before specialization.
 
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-success)
 ![Python](https://img.shields.io/badge/Python-Data%20Fundamentals-blue)
 ![Practice](https://img.shields.io/badge/Approach-Project%20Based-orange)
 ![BIH](https://img.shields.io/badge/Case%20Studies-Beacon%20Innovation%20Hub-purple)
 
-**Learning Model:** 🎥 Watch → 📚 Read → 🎮 Play → 🧩 Practice → 📊 Analyse → 🧠 Explain → 🏗️ Build
+
+
+</div>
 
 ---
 
@@ -41,13 +47,19 @@ Specialisation begins after this stage.
 
 # 🚀 Main Beginner Course
 
-[![Python for Data Analytics](https://img.youtube.com/vi/wUSDVGivd-8/maxresdefault.jpg)](https://youtu.be/wUSDVGivd-8)
+<div align="center">
 
 ## 🎥 Python for Data Analytics
 
-**[▶ Watch the Full Course](https://youtu.be/wUSDVGivd-8)**
+<a href="https://youtu.be/wUSDVGivd-8">
+<img src="https://img.youtube.com/vi/wUSDVGivd-8/maxresdefault.jpg" width="720" alt="Python for Data Analytics">
+</a>
 
-Use this as the main guided resource.
+### [▶ Watch the Full Course](https://youtu.be/wUSDVGivd-8)
+
+**Use this as the main guided resource.**
+
+</div>
 
 Do not watch passively.
 
@@ -75,11 +87,19 @@ Python is the common programming foundation for modern data work.
 
 ## 🎥 Additional Beginner Resource
 
-[![Python for Beginners](https://img.youtube.com/vi/b093aqAZiPU/maxresdefault.jpg)](https://youtu.be/b093aqAZiPU)
+<div align="center">
 
-**[▶ Watch Python for Beginners](https://youtu.be/b093aqAZiPU)**
+### Python for Beginners
 
-Use this resource if you need extra help with Python fundamentals.
+<a href="https://youtu.be/b093aqAZiPU">
+<img src="https://img.youtube.com/vi/b093aqAZiPU/maxresdefault.jpg" width="680" alt="Python for Beginners">
+</a>
+
+### [▶ Watch Python for Beginners](https://youtu.be/b093aqAZiPU)
+
+Use this if you need extra help with Python fundamentals.
+
+</div>
 
 ---
 
@@ -229,17 +249,34 @@ NumPy provides efficient numerical operations for structured numeric data.
 
 ---
 
-## 🎥 NumPy Resource 1
+## 🎥 NumPy Video Resources
 
-[![NumPy Tutorial](https://img.youtube.com/vi/zI5ducyfyNc/maxresdefault.jpg)](https://youtu.be/zI5ducyfyNc)
+<table>
+<tr>
+<td width="50%" align="center">
 
-**[▶ Watch NumPy Resource 1](https://youtu.be/zI5ducyfyNc)**
+### NumPy Tutorial
 
-## 🎥 NumPy Resource 2
+<a href="https://youtu.be/zI5ducyfyNc">
+<img src="https://img.youtube.com/vi/zI5ducyfyNc/maxresdefault.jpg" width="100%" alt="NumPy Tutorial">
+</a>
 
-[![Python NumPy Tutorial](https://img.youtube.com/vi/QUT1VHiLmmI/maxresdefault.jpg)](https://youtu.be/QUT1VHiLmmI)
+**[▶ Watch Resource 1](https://youtu.be/zI5ducyfyNc)**
 
-**[▶ Watch NumPy Resource 2](https://youtu.be/QUT1VHiLmmI)**
+</td>
+<td width="50%" align="center">
+
+### Python NumPy Tutorial
+
+<a href="https://youtu.be/QUT1VHiLmmI">
+<img src="https://img.youtube.com/vi/QUT1VHiLmmI/maxresdefault.jpg" width="100%" alt="Python NumPy Tutorial">
+</a>
+
+**[▶ Watch Resource 2](https://youtu.be/QUT1VHiLmmI)**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -311,17 +348,34 @@ Pandas is the main shared tool for tabular data manipulation.
 
 ---
 
-## 🎥 Pandas Resource
+## 🎥 Pandas Video Resources
 
-[![Pandas Tutorial](https://img.youtube.com/vi/EXIgjIBu4EU/maxresdefault.jpg)](https://youtu.be/EXIgjIBu4EU)
+<table>
+<tr>
+<td width="50%" align="center">
+
+### Pandas Tutorial
+
+<a href="https://youtu.be/EXIgjIBu4EU">
+<img src="https://img.youtube.com/vi/EXIgjIBu4EU/maxresdefault.jpg" width="100%" alt="Pandas Tutorial">
+</a>
 
 **[▶ Watch Pandas Tutorial](https://youtu.be/EXIgjIBu4EU)**
 
-## 🎥 Additional Resource
+</td>
+<td width="50%" align="center">
 
-[![Additional Data Resource](https://img.youtube.com/vi/2uvysYbKdjM/maxresdefault.jpg)](https://youtu.be/2uvysYbKdjM)
+### Additional Data Resource
 
-**[▶ Watch Additional Data Resource](https://youtu.be/2uvysYbKdjM)**
+<a href="https://youtu.be/2uvysYbKdjM">
+<img src="https://img.youtube.com/vi/2uvysYbKdjM/maxresdefault.jpg" width="100%" alt="Additional Data Resource">
+</a>
+
+**[▶ Watch Additional Resource](https://youtu.be/2uvysYbKdjM)**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -546,9 +600,17 @@ Visualization helps communicate patterns clearly.
 
 ## 🎥 Visualization Resource
 
-[![Data Visualization](https://img.youtube.com/vi/OZOOLe2imFo/maxresdefault.jpg)](https://www.youtube.com/watch?v=OZOOLe2imFo)
+<div align="center">
 
-**[▶ Watch Visualization Resource](https://www.youtube.com/watch?v=OZOOLe2imFo)**
+### Data Visualization
+
+<a href="https://www.youtube.com/watch?v=OZOOLe2imFo">
+<img src="https://img.youtube.com/vi/OZOOLe2imFo/maxresdefault.jpg" width="680" alt="Data Visualization">
+</a>
+
+### [▶ Watch Visualization Resource](https://www.youtube.com/watch?v=OZOOLe2imFo)
+
+</div>
 
 ---
 
@@ -856,7 +918,11 @@ BIH-data-foundations/
 
 # 💡 Learning Principle
 
-Do not measure progress by tutorial hours.
+<div align="center">
+
+### Do not measure progress by tutorial hours.
+
+</div>
 
 Measure whether you can receive unfamiliar data and:
 
@@ -879,3 +945,18 @@ Measure whether you can receive unfamiliar data and:
 ```
 
 > **The shared goal is to become capable of turning raw data into reliable, understandable information. Specialisation comes after this foundation.**
+
+
+---
+
+<div align="center">
+
+## 📊 COMMON FOUNDATION → SPECIALIZATION
+
+Complete these foundations before progressing into:
+
+**Data Analytics • Data Science • Data Engineering**
+
+**Watch. Recreate. Practice. Validate. Explain. Build.**
+
+</div>
