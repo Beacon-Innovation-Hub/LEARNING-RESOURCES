@@ -10,7 +10,7 @@ Copy the contents into a .md file in the BIH learning repository to render it on
 
 **Difficulty:** Advanced
 
-[← Previous Level](<05 - Level 5 - HTML for SEO.md>) · [Final Project →](<07 - Final HTML Practice Project.md>)
+[← Previous Level](Level%205%20—%20HTML%20for%20SEO.md) · [Final Project →](Final%20HTML%20Practice%20Project.md)
 
 ---
 
@@ -124,4 +124,4 @@ Professional HTML
 - [ ] I can review and improve my own HTML.
 - [ ] I completed the professional refactor.
 
-**Next:** [Final HTML Practice Project →](<07 - Final HTML Practice Project.md>)
+**Next:** [Final HTML Practice Project →](Final%20HTML%20Practice%20Project.md)
