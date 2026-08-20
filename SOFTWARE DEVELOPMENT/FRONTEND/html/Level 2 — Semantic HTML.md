@@ -10,7 +10,7 @@ Copy the contents into a .md file in the BIH learning repository to render it on
 
 **Difficulty:** Intermediate
 
-[← Previous Level](<01 - Level 1 - HTML Foundations.md>) · [Next Level →](<03 - Level 3 - Forms and Data Collection.md>)
+[← Previous Level](Level%201%20—%20HTML%20Foundations.md) · [Next Level →](Level%203%20—%20Forms%20%26%20Data%20Collection.md)
 
 ---
 
@@ -91,4 +91,4 @@ Do not replace every `<div>` automatically. A `<div>` remains appropriate when n
 - [ ] I restructured a non-semantic page.
 - [ ] I can defend my element choices.
 
-**Next:** [Level 3 — Forms & Data Collection →](<03 - Level 3 - Forms and Data Collection.md>)
+**Next:** [Level 3 — Forms & Data Collection →](Level%203%20—%20Forms%20%26%20Data%20Collection.md)
