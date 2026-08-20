@@ -10,7 +10,7 @@ Copy the contents into a .md file in the BIH learning repository to render it on
 
 **Difficulty:** Advanced
 
-[← Previous Level](<04 - Level 4 - HTML Accessibility.md>) · [Next Level →](<06 - Level 6 - Professional HTML.md>)
+[← Previous Level](Level%204%20—%20HTML%20Accessibility.md) · [Next Level →](Level%206%20—%20Professional%20HTML.md)
 
 ---
 
@@ -96,4 +96,4 @@ Accessible HTML
 - [ ] I understand how semantic HTML contributes to discoverability.
 - [ ] I completed an HTML SEO audit.
 
-**Next:** [Level 6 — Professional HTML →](<06 - Level 6 - Professional HTML.md>)
+**Next:** [Level 6 — Professional HTML →](Level%206%20—%20Professional%20HTML.md)
