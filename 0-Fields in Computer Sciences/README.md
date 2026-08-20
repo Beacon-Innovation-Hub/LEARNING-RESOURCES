@@ -1,692 +1,602 @@
-# Fields in Computer Science
+# 🧭 FIELDS IN COMPUTER SCIENCE
 
-> A beginner-friendly guide to the main technical fields represented in
-> the Beacon Innovation Hub learning repository.
+<div align="center">
 
-**Goal:** Understand what each field does, discover the careers
-available in it, and use short videos to decide which learning path
-interests you most.
+### A Video-First Guide to Computer Science Career Paths
 
-**Learning model:** Explore → Watch → Compare → Try → Choose
+**Watch → Compare → Try → Choose**
 
-------------------------------------------------------------------------
+Each thumbnail below is clickable and opens the YouTube video.
 
-## Contents
+</div>
 
-1.  [Software Development](#1-software-development)
-2.  [Cybersecurity](#2-cybersecurity)
-3.  [Data Science](#3-data-science)
-4.  [Networks](#4-networks)
-5.  [Cloud Computing & DevOps](#5-cloud-computing--devops)
-6.  [Career Development](#6-career-development)
-7.  [How the Fields Work Together](#7-how-the-fields-work-together)
-8.  [Field Exploration Challenge](#8-field-exploration-challenge)
+---
 
-------------------------------------------------------------------------
+## 🗺️ Main Paths
 
-# 1. Software Development
+| Field | Main Question | Example Careers |
+|---|---|---|
+| 💻 **Software Development** | How do we build useful software? | Frontend, Backend, Full-Stack, Mobile, QA |
+| 🛡️ **Cybersecurity** | How do we protect and test systems? | SOC Analyst, Pentester, Security Engineer |
+| 📊 **Data Science** | How do we turn data into decisions? | Analyst, Scientist, Engineer, ML Engineer |
+| 🌐 **Networks** | How do computers communicate? | Network Engineer, NOC Analyst |
+| ☁️ **Cloud & DevOps** | How do we deploy and operate systems? | Cloud Engineer, DevOps Engineer, SRE |
+| 🚀 **Career Development** | How do we demonstrate competence? | Applies to every technical career |
 
-## What is Software Development?
+---
 
-Software development is the process of designing, building, testing,
-deploying, and maintaining computer programs.
+# 💻 1. SOFTWARE DEVELOPMENT
 
-Software developers turn problems into working systems. These systems
-may be:
+<div align="center">
 
--   Websites
--   Mobile applications
--   Desktop applications
--   APIs
--   Business systems
--   Games
--   Embedded systems
--   Automation tools
--   Cloud applications
+**Websites • APIs • Mobile Apps • Business Systems • Automation**
 
-A developer does much more than write code. Developers must understand a
-problem, break it into smaller parts, design a solution, test it, fix
-errors, document it, and maintain it.
+</div>
 
-### Common Areas
+## Frontend Development
 
-**Frontend Development**\
-Builds the parts of websites and applications that users see and
-interact with.
+Builds what users **see and interact with**.
 
-Common technologies: - HTML - CSS - JavaScript - React - Angular - Vue
+**Careers:** Frontend Developer • UI Developer • Web Developer • React Developer
 
-**Backend Development**\
-Builds server-side logic, APIs, authentication, databases, and business
-rules.
+<table>
+<tr>
+<td width="50%" align="center">
 
-Common technologies: - Python - Java - JavaScript / Node.js - C# - PHP -
-SQL
+### HTML in 100 Seconds
 
-**Full-Stack Development**\
-Combines frontend and backend development.
+<a href="https://www.youtube.com/watch?v=ok-plXXHlWw">
+<img src="https://img.youtube.com/vi/ok-plXXHlWw/hqdefault.jpg" width="100%" alt="HTML in 100 Seconds">
+</a>
 
-**Mobile Development**\
-Builds applications for smartphones and tablets.
+**Fireship**
 
-**Software Engineering**\
-Applies engineering principles to larger software systems, including
-architecture, testing, maintainability, reliability, and teamwork.
+</td>
+<td width="50%" align="center">
 
-## Careers
+### CSS in 100 Seconds
 
--   Frontend Developer
--   Backend Developer
--   Full-Stack Developer
--   Software Engineer
--   Mobile App Developer
--   Web Developer
--   Application Developer
--   API Developer
--   QA / Test Automation Engineer
--   Software Architect
--   Game Developer
--   Embedded Software Developer
+<a href="https://www.youtube.com/watch?v=OEV8gMkCHXQ">
+<img src="https://img.youtube.com/vi/OEV8gMkCHXQ/hqdefault.jpg" width="100%" alt="CSS in 100 Seconds">
+</a>
 
-## Quick Video Exploration
+**Fireship**
 
-1.  [Python in 100 Seconds ---
-    Fireship](https://www.youtube.com/watch?v=x7X9w_GIm1s)
-2.  [Git Explained in 100 Seconds ---
-    Fireship](https://www.youtube.com/watch?v=hwP7WQkmECE)
-3.  [REST API Concepts and Examples ---
-    WebConcepts](https://www.youtube.com/watch?v=7YcW25PHnAA)
-4.  [Explore short Frontend Development
-    videos](https://www.youtube.com/results?search_query=frontend+development+explained+short)
-5.  [Explore short Backend Development
-    videos](https://www.youtube.com/results?search_query=backend+development+explained+short)
-6.  [Explore Software Engineer career
-    videos](https://www.youtube.com/results?search_query=software+engineer+career+day+in+the+life+short)
+</td>
+</tr>
+</table>
 
-### Think About It
+### More Frontend Videos
 
-> You need to build an online student registration system. Which parts
-> would belong to the frontend and which parts would belong to the
-> backend?
+- [JavaScript in 100 Seconds — Fireship](https://www.youtube.com/results?search_query=Fireship+JavaScript+in+100+Seconds)
+- [React in 100 Seconds — Fireship](https://www.youtube.com/results?search_query=Fireship+React+in+100+Seconds)
+- [Frontend Development Explained](https://www.youtube.com/results?search_query=frontend+development+explained+in+5+minutes)
+- [Frontend Developer Day in the Life](https://www.youtube.com/results?search_query=frontend+developer+day+in+the+life)
 
-------------------------------------------------------------------------
+---
 
-# 2. Cybersecurity
+## Backend Development
 
-## What is Cybersecurity?
+Builds **server logic, APIs, authentication, databases and business rules**.
 
-Cybersecurity focuses on protecting computers, networks, applications,
-systems, and data from unauthorized access, attacks, damage, and misuse.
+**Careers:** Backend Developer • API Developer • Platform Developer • Software Engineer
 
-Security professionals ask questions such as:
+<table>
+<tr>
+<td width="50%" align="center">
 
--   Who should be allowed into this system?
--   What happens if an attacker steals a password?
--   Is sensitive information encrypted?
--   Can this website be exploited?
--   How would we detect an attack?
--   How would the organization recover after an incident?
+### Python in 100 Seconds
 
-Cybersecurity includes both **defensive security** and **authorized
-offensive security**.
+<a href="https://www.youtube.com/watch?v=x7X9w_GIm1s">
+<img src="https://img.youtube.com/vi/x7X9w_GIm1s/hqdefault.jpg" width="100%" alt="Python in 100 Seconds">
+</a>
 
-### Common Areas
+**Fireship**
 
-**Security Analysis**\
-Monitors systems and investigates suspicious activity.
+</td>
+<td width="50%" align="center">
 
-**Penetration Testing**\
-Legally tests systems for vulnerabilities with authorization.
+### REST API Concepts
 
-**Application Security**\
-Finds and prevents security weaknesses in software.
+<a href="https://www.youtube.com/watch?v=7YcW25PHnAA">
+<img src="https://img.youtube.com/vi/7YcW25PHnAA/hqdefault.jpg" width="100%" alt="REST API Concepts">
+</a>
 
-**Network Security**\
-Protects network infrastructure and traffic.
+**WebConcepts**
 
-**Cloud Security**\
-Secures cloud infrastructure, identities, data, and services.
+</td>
+</tr>
+</table>
 
-**Digital Forensics**\
-Investigates computers and digital evidence after incidents.
+### More Backend Videos
 
-**Incident Response**\
-Responds to attacks and helps organizations contain and recover from
-them.
+- [Backend Development Explained](https://www.youtube.com/results?search_query=backend+development+explained+in+5+minutes)
+- [Node.js in 100 Seconds — Fireship](https://www.youtube.com/results?search_query=Fireship+Node.js+in+100+Seconds)
+- [SQL in 100 Seconds — Fireship](https://www.youtube.com/results?search_query=Fireship+SQL+in+100+Seconds)
+- [Backend Developer Day in the Life](https://www.youtube.com/results?search_query=backend+developer+day+in+the+life)
 
-**Governance, Risk & Compliance (GRC)**\
-Works with security policies, standards, risk, audits, and regulatory
-requirements.
+---
 
-## Careers
+## Mobile Development
 
--   Cybersecurity Analyst
--   Security Operations Centre (SOC) Analyst
--   Penetration Tester
--   Ethical Hacker
--   Security Engineer
--   Application Security Engineer
--   Cloud Security Engineer
--   Incident Responder
--   Digital Forensics Analyst
--   Threat Intelligence Analyst
--   Security Consultant
--   Security Architect
--   GRC Analyst
+Builds applications for **Android and iOS devices**.
 
-## Quick Video Exploration
+**Careers:** Android Developer • iOS Developer • Flutter Developer • Mobile Software Engineer
 
-1.  [Cybersecurity: Crash Course Computer Science
-    #31](https://www.youtube.com/watch?v=bPVaOlJ6ln0)
-2.  [Explore Cybersecurity in 5--10 Minutes
-    videos](https://www.youtube.com/results?search_query=cybersecurity+explained+in+5+minutes)
-3.  [Explore SOC Analyst career
-    videos](https://www.youtube.com/results?search_query=SOC+analyst+career+day+in+the+life)
-4.  [Explore Ethical Hacker career
-    videos](https://www.youtube.com/results?search_query=ethical+hacker+career+explained)
-5.  [Explore Penetration Testing
-    introductions](https://www.youtube.com/results?search_query=penetration+testing+explained+beginner+short)
-6.  [Explore Digital Forensics
-    introductions](https://www.youtube.com/results?search_query=digital+forensics+explained+short)
+<div align="center">
 
-### Think About It
+### Flutter in 100 Seconds
 
-> A company discovers thousands of failed login attempts against its
-> website. Which cybersecurity professional would probably investigate
-> first?
+<a href="https://www.youtube.com/watch?v=lHhRhPV--G0">
+<img src="https://img.youtube.com/vi/lHhRhPV--G0/hqdefault.jpg" width="640" alt="Flutter in 100 Seconds">
+</a>
 
-------------------------------------------------------------------------
+**Fireship**
 
-# 3. Data Science
+</div>
 
-## What is Data Science?
+### More Mobile Videos
 
-Data science uses data to understand problems, discover patterns, make
-predictions, and support decisions.
+- [Kotlin in 100 Seconds](https://www.youtube.com/results?search_query=Fireship+Kotlin+in+100+Seconds)
+- [Swift in 100 Seconds](https://www.youtube.com/results?search_query=Fireship+Swift+in+100+Seconds)
+- [Android vs iOS Development](https://www.youtube.com/results?search_query=android+vs+ios+development+explained)
+- [Mobile Developer Day in the Life](https://www.youtube.com/results?search_query=mobile+developer+day+in+the+life)
 
-It combines:
+---
 
--   Programming
--   Statistics
--   Mathematics
--   Data analysis
--   Machine learning
--   Domain or business knowledge
+## Full-Stack, Testing & Software Engineering
 
-A data professional may begin with messy raw data and turn it into
-information that can answer a real-world question.
+| Path | Focus |
+|---|---|
+| **Full-Stack** | Frontend + backend |
+| **QA / Testing** | Verify that software works correctly |
+| **Software Engineering** | Design maintainable and reliable systems |
+| **Architecture** | Design how large systems fit together |
 
-Example:
+<div align="center">
 
-``` text
-Raw customer data
-        ↓
-Data cleaning
-        ↓
-Exploratory analysis
-        ↓
-Patterns and trends
-        ↓
-Statistical / machine-learning model
-        ↓
-Prediction or recommendation
-        ↓
-Business decision
+### Git Explained in 100 Seconds
+
+<a href="https://www.youtube.com/watch?v=hwP7WQkmECE">
+<img src="https://img.youtube.com/vi/hwP7WQkmECE/hqdefault.jpg" width="640" alt="Git Explained in 100 Seconds">
+</a>
+
+**Fireship**
+
+</div>
+
+### Explore Further
+
+- [Frontend vs Backend vs Full Stack](https://www.youtube.com/results?search_query=frontend+vs+backend+vs+full+stack)
+- [Software Testing Explained](https://www.youtube.com/results?search_query=software+testing+explained+in+5+minutes)
+- [System Design Explained](https://www.youtube.com/results?search_query=system+design+explained+for+beginners)
+- [Software Architect Career](https://www.youtube.com/results?search_query=software+architect+career+explained)
+
+---
+
+# 🛡️ 2. CYBERSECURITY
+
+<div align="center">
+
+**Protect • Detect • Investigate • Test • Recover**
+
+</div>
+
+| Path | Focus | Careers |
+|---|---|---|
+| **SOC / Blue Team** | Detect attacks | SOC Analyst |
+| **Penetration Testing** | Legally test weaknesses | Pentester |
+| **Application Security** | Secure software | AppSec Engineer |
+| **Digital Forensics** | Investigate digital evidence | DFIR Analyst |
+| **Incident Response** | Contain and recover from attacks | Incident Responder |
+| **Cloud Security** | Protect cloud environments | Cloud Security Engineer |
+| **GRC** | Risk, policy and compliance | GRC Analyst |
+
+<div align="center">
+
+### Cybersecurity — Crash Course Computer Science
+
+<a href="https://www.youtube.com/watch?v=bPVaOlJ6ln0">
+<img src="https://img.youtube.com/vi/bPVaOlJ6ln0/hqdefault.jpg" width="640" alt="Cybersecurity Crash Course">
+</a>
+
+**CrashCourse**
+
+</div>
+
+<details>
+<summary><b>🎬 SOC / Defensive Security Videos</b></summary>
+
+- [SOC Analyst Explained](https://www.youtube.com/results?search_query=SOC+analyst+explained+in+5+minutes)
+- [SIEM Explained](https://www.youtube.com/results?search_query=SIEM+explained+in+5+minutes)
+- [Incident Response Explained](https://www.youtube.com/results?search_query=incident+response+explained+cybersecurity)
+- [SOC Analyst Day in the Life](https://www.youtube.com/results?search_query=SOC+analyst+day+in+the+life)
+
+</details>
+
+<details>
+<summary><b>🎬 Ethical Hacking / Penetration Testing Videos</b></summary>
+
+- [Penetration Testing Explained](https://www.youtube.com/results?search_query=penetration+testing+explained+in+5+minutes)
+- [Ethical Hacking Explained](https://www.youtube.com/results?search_query=ethical+hacking+explained+in+5+minutes)
+- [Burp Suite for Beginners](https://www.youtube.com/results?search_query=Burp+Suite+explained+for+beginners)
+- [OWASP Top 10 Explained](https://www.youtube.com/results?search_query=OWASP+Top+10+explained)
+
+> ⚠️ Practice offensive security only on systems you own or have explicit permission to test.
+
+</details>
+
+<details>
+<summary><b>🎬 Digital Forensics / GRC Videos</b></summary>
+
+- [Digital Forensics Explained](https://www.youtube.com/results?search_query=digital+forensics+explained+in+5+minutes)
+- [Malware Analysis Explained](https://www.youtube.com/results?search_query=malware+analysis+explained)
+- [GRC in Cybersecurity](https://www.youtube.com/results?search_query=GRC+cybersecurity+explained)
+- [ISO 27001 Explained](https://www.youtube.com/results?search_query=ISO+27001+explained+in+5+minutes)
+- [NIST Cybersecurity Framework](https://www.youtube.com/results?search_query=NIST+cybersecurity+framework+explained)
+
+</details>
+
+---
+
+# 📊 3. DATA SCIENCE
+
+<div align="center">
+
+**Collect • Clean • Analyse • Engineer • Predict • Communicate**
+
+</div>
+
+```text
+RAW DATA
+   │
+   ▼
+DATA ENGINEER
+   │
+   ▼
+DATA ANALYST / BI
+   │
+   ▼
+DATA SCIENTIST
+   │
+   ▼
+ML / AI ENGINEER
 ```
 
-### Common Areas
+<table>
+<tr>
+<td width="50%" align="center">
 
-**Data Analysis**\
-Examines data to explain what happened and why.
+### What is Data Science?
 
-**Data Science**\
-Uses statistics, programming, experimentation, and predictive modelling
-to solve complex problems.
+<a href="https://www.youtube.com/watch?v=RBSUwFGa6Fk">
+<img src="https://img.youtube.com/vi/RBSUwFGa6Fk/hqdefault.jpg" width="100%" alt="What is Data Science">
+</a>
 
-**Machine Learning**\
-Creates systems that learn patterns from data.
+**IBM Technology**
 
-**Data Engineering**\
-Builds pipelines and infrastructure that collect, transform, and deliver
-data.
+</td>
+<td width="50%" align="center">
 
-**Business Intelligence**\
-Builds reports, dashboards, metrics, and decision-support systems.
+### What is Machine Learning?
 
-**Artificial Intelligence**\
-Develops systems that perform tasks involving prediction, reasoning,
-language, perception, or decision-making.
+<a href="https://www.youtube.com/watch?v=9gGnTQTYNaE">
+<img src="https://img.youtube.com/vi/9gGnTQTYNaE/hqdefault.jpg" width="100%" alt="What is Machine Learning">
+</a>
 
-## Careers
+**IBM Technology**
 
--   Data Analyst
--   Data Scientist
--   Data Engineer
--   Machine Learning Engineer
--   AI Engineer
--   Business Intelligence Analyst
--   Business Intelligence Developer
--   Analytics Engineer
--   Research Data Scientist
--   Data Architect
--   Database Developer
--   MLOps Engineer
+</td>
+</tr>
+</table>
 
-## Quick Video Exploration
+<div align="center">
 
-1.  [What is Data Science? --- IBM
-    Technology](https://www.youtube.com/watch?v=RBSUwFGa6Fk)
-2.  [What is Machine Learning? --- IBM
-    Technology](https://www.youtube.com/watch?v=9gGnTQTYNaE)
-3.  [Neural Networks Explained in 5 Minutes --- IBM
-    Technology](https://www.youtube.com/watch?v=jmmW0F0biz0)
-4.  [Python in 100 Seconds ---
-    Fireship](https://www.youtube.com/watch?v=x7X9w_GIm1s)
-5.  [Explore Data Analyst career
-    videos](https://www.youtube.com/results?search_query=data+analyst+career+explained+short)
-6.  [Explore Data Scientist career
-    videos](https://www.youtube.com/results?search_query=data+scientist+career+explained+short)
-7.  [Explore Data Engineer career
-    videos](https://www.youtube.com/results?search_query=data+engineer+career+explained+short)
+### Neural Networks Explained in 5 Minutes
 
-### Think About It
+<a href="https://www.youtube.com/watch?v=jmmW0F0biz0">
+<img src="https://img.youtube.com/vi/jmmW0F0biz0/hqdefault.jpg" width="640" alt="Neural Networks Explained">
+</a>
 
-> A transport company has five years of trip data and wants to predict
-> passenger demand for next month. Which data field would be especially
-> useful?
+**IBM Technology**
 
-------------------------------------------------------------------------
+</div>
 
-# 4. Networks
+## Compare the Careers
 
-## What are Computer Networks?
+<table>
+<tr>
+<td width="50%" align="center">
 
-Computer networking is the field concerned with connecting computers and
-other devices so that they can communicate and share information.
+### Data Analyst vs Scientist vs Engineer
 
-Every time you:
+<a href="https://www.youtube.com/watch?v=nE0ROjIjmbo">
+<img src="https://img.youtube.com/vi/nE0ROjIjmbo/hqdefault.jpg" width="100%" alt="Data Analyst vs Data Scientist vs Data Engineer">
+</a>
 
--   Visit a website
--   Send a WhatsApp message
--   Stream a video
--   Access a cloud application
--   Play an online game
+</td>
+<td width="50%" align="center">
 
-data must travel through networks.
+### Another Career Comparison
 
-Networking professionals work with concepts such as:
+<a href="https://www.youtube.com/watch?v=rKpdsnjJjOM">
+<img src="https://img.youtube.com/vi/rKpdsnjJjOM/hqdefault.jpg" width="100%" alt="Data Career Comparison">
+</a>
 
--   IP addresses
--   Routers
--   Switches
--   Ethernet
--   Wi-Fi
--   TCP/IP
--   DNS
--   Firewalls
--   Ports
--   Network protocols
--   Virtual networks
--   Network monitoring
+</td>
+</tr>
+</table>
 
-## Careers
+| Career | Main Question |
+|---|---|
+| **Data Analyst** | What happened and why? |
+| **BI Analyst** | What should decision-makers monitor? |
+| **Data Scientist** | What may happen next? |
+| **Data Engineer** | How do we make reliable data available? |
+| **ML Engineer** | How do we run models in products? |
+| **AI Engineer** | How do we build AI-powered applications? |
+| **MLOps Engineer** | How do we deploy and monitor ML systems? |
 
--   Network Technician
--   Network Administrator
--   Network Engineer
--   Network Architect
--   Network Operations Centre (NOC) Analyst
--   Wireless Network Engineer
--   Infrastructure Engineer
--   Network Security Engineer
--   Telecommunications Engineer
--   Systems Administrator
--   Cloud Network Engineer
+### More Data Videos
 
-## Quick Video Exploration
+- [Data Analyst Day in the Life](https://www.youtube.com/results?search_query=data+analyst+day+in+the+life)
+- [Data Scientist Day in the Life](https://www.youtube.com/results?search_query=data+scientist+day+in+the+life)
+- [Data Engineer Day in the Life](https://www.youtube.com/results?search_query=data+engineer+day+in+the+life)
+- [ETL Explained](https://www.youtube.com/results?search_query=ETL+explained+in+5+minutes)
+- [Data Warehouse Explained](https://www.youtube.com/results?search_query=data+warehouse+explained+in+5+minutes)
+- [MLOps Explained](https://www.youtube.com/results?search_query=MLOps+explained+in+5+minutes)
 
-1.  [Computer Networks: Crash Course Computer Science
-    #28](https://www.youtube.com/watch?v=3QhU9jd03a0)
-2.  [The Internet: Crash Course Computer Science
-    #29](https://www.youtube.com/watch?v=AEaKrq3SpW8)
-3.  [Explore DNS Explained
-    videos](https://www.youtube.com/results?search_query=DNS+explained+short+animation)
-4.  [Explore TCP/IP Explained
-    videos](https://www.youtube.com/results?search_query=TCP+IP+explained+short)
-5.  [Explore Router vs Switch
-    videos](https://www.youtube.com/results?search_query=router+vs+switch+explained+short)
-6.  [Explore Network Engineer career
-    videos](https://www.youtube.com/results?search_query=network+engineer+career+day+in+the+life)
+---
 
-### Mini Activity
+# 🌐 4. NETWORKS
 
-On your device, identify:
+<div align="center">
 
-1.  The network you are connected to.
-2.  Whether you are using Wi-Fi or mobile data.
-3.  Your device's local IP address.
-4.  The role a router plays when accessing a website.
+**Connect • Route • Troubleshoot • Monitor • Secure**
 
-------------------------------------------------------------------------
+</div>
 
-# 5. Cloud Computing & DevOps
+<table>
+<tr>
+<td width="50%" align="center">
 
-## What is Cloud Computing?
+### Computer Networks
 
-Cloud computing allows organizations to use computing resources over the
-internet instead of owning and maintaining all infrastructure locally.
+<a href="https://www.youtube.com/watch?v=3QhU9jd03a0">
+<img src="https://img.youtube.com/vi/3QhU9jd03a0/hqdefault.jpg" width="100%" alt="Computer Networks Crash Course">
+</a>
 
-Cloud services can provide:
+**CrashCourse**
 
--   Virtual servers
--   Storage
--   Databases
--   Networking
--   Application hosting
--   Analytics
--   AI services
--   Security services
--   Backup and disaster recovery
+</td>
+<td width="50%" align="center">
 
-Major cloud platforms include AWS, Microsoft Azure, and Google Cloud.
+### The Internet
 
-## What is DevOps?
+<a href="https://www.youtube.com/watch?v=AEaKrq3SpW8">
+<img src="https://img.youtube.com/vi/AEaKrq3SpW8/hqdefault.jpg" width="100%" alt="The Internet Crash Course">
+</a>
 
-DevOps combines software development practices with IT operations.
+**CrashCourse**
 
-The goal is to make building, testing, releasing, monitoring, and
-improving software faster and more reliable.
+</td>
+</tr>
+</table>
 
-A simplified DevOps workflow looks like:
+| Path | Careers |
+|---|---|
+| **Network Support** | Network Technician |
+| **Network Administration** | Network Administrator |
+| **Network Engineering** | Network Engineer |
+| **NOC Operations** | NOC Analyst |
+| **Wireless Networking** | Wireless Engineer |
+| **Network Security** | Network Security Engineer |
+| **Cloud Networking** | Cloud Network Engineer |
 
-``` text
-Plan
- ↓
-Code
- ↓
-Build
- ↓
-Test
- ↓
-Release
- ↓
-Deploy
- ↓
-Monitor
- ↓
-Improve
- ↺
+### More Networking Videos
+
+- [OSI Model Explained](https://www.youtube.com/results?search_query=OSI+model+explained+PowerCert)
+- [TCP/IP Explained](https://www.youtube.com/results?search_query=TCP+IP+explained+PowerCert)
+- [Router vs Switch](https://www.youtube.com/results?search_query=router+vs+switch+PowerCert)
+- [DNS Explained](https://www.youtube.com/results?search_query=DNS+explained+PowerCert)
+- [DHCP Explained](https://www.youtube.com/results?search_query=DHCP+explained+PowerCert)
+- [Subnetting Explained](https://www.youtube.com/results?search_query=subnetting+explained+for+beginners)
+- [Network Engineer Day in the Life](https://www.youtube.com/results?search_query=network+engineer+day+in+the+life)
+
+---
+
+# ☁️ 5. CLOUD COMPUTING & DEVOPS
+
+<div align="center">
+
+**Deploy • Automate • Scale • Monitor • Recover**
+
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### Cloud Computing Explained
+
+<a href="https://www.youtube.com/watch?v=_a6us8kaq0g">
+<img src="https://img.youtube.com/vi/_a6us8kaq0g/hqdefault.jpg" width="100%" alt="Cloud Computing Explained">
+</a>
+
+**PowerCert Animated Videos**
+
+</td>
+<td width="50%" align="center">
+
+### What is DevOps?
+
+<a href="https://www.youtube.com/watch?v=UbtB4sMaaNM">
+<img src="https://img.youtube.com/vi/UbtB4sMaaNM/hqdefault.jpg" width="100%" alt="What is DevOps">
+</a>
+
+**IBM Technology**
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### Docker in 100 Seconds
+
+<a href="https://www.youtube.com/watch?v=Gjnup-PuquQ">
+<img src="https://img.youtube.com/vi/Gjnup-PuquQ/hqdefault.jpg" width="100%" alt="Docker in 100 Seconds">
+</a>
+
+**Fireship**
+
+</td>
+<td width="50%" align="center">
+
+### Kubernetes in 100 Seconds
+
+<a href="https://www.youtube.com/watch?v=PziYflu8cB8">
+<img src="https://img.youtube.com/vi/PziYflu8cB8/hqdefault.jpg" width="100%" alt="Kubernetes in 100 Seconds">
+</a>
+
+**Fireship**
+
+</td>
+</tr>
+</table>
+
+| Path | Careers |
+|---|---|
+| **Cloud Engineering** | Cloud Engineer |
+| **Cloud Architecture** | Cloud Architect |
+| **DevOps** | DevOps Engineer |
+| **Site Reliability** | SRE |
+| **Platform Engineering** | Platform Engineer |
+| **DevSecOps** | DevSecOps Engineer |
+| **Containers** | Kubernetes / Platform Engineer |
+| **Cloud Security** | Cloud Security Engineer |
+
+### More Cloud & DevOps Videos
+
+- [AWS Explained in 5 Minutes](https://www.youtube.com/results?search_query=AWS+explained+in+5+minutes)
+- [Azure Explained in 5 Minutes](https://www.youtube.com/results?search_query=Azure+explained+in+5+minutes)
+- [Google Cloud Explained](https://www.youtube.com/results?search_query=Google+Cloud+explained+in+5+minutes)
+- [CI/CD Explained](https://www.youtube.com/results?search_query=CI+CD+explained+in+5+minutes)
+- [GitHub Actions Explained](https://www.youtube.com/results?search_query=GitHub+Actions+explained)
+- [Terraform Explained](https://www.youtube.com/results?search_query=Terraform+explained+in+5+minutes)
+- [SRE vs DevOps](https://www.youtube.com/results?search_query=SRE+vs+DevOps+explained)
+- [Platform Engineering Explained](https://www.youtube.com/results?search_query=platform+engineering+explained)
+
+---
+
+# 🚀 6. CAREER DEVELOPMENT
+
+<div align="center">
+
+**Build Skills → Build Projects → Publish Evidence → Demonstrate Competence**
+
+</div>
+
+<div align="center">
+
+### Git Explained in 100 Seconds
+
+<a href="https://www.youtube.com/watch?v=hwP7WQkmECE">
+<img src="https://img.youtube.com/vi/hwP7WQkmECE/hqdefault.jpg" width="640" alt="Git Explained in 100 Seconds">
+</a>
+
+**Fireship**
+
+</div>
+
+### Career Videos
+
+- [Build a Professional GitHub Portfolio](https://www.youtube.com/results?search_query=GitHub+portfolio+computer+science+student)
+- [Write a Strong GitHub README](https://www.youtube.com/results?search_query=write+professional+GitHub+README)
+- [LinkedIn for Computer Science Students](https://www.youtube.com/results?search_query=LinkedIn+for+computer+science+students)
+- [Tech Resume Tips](https://www.youtube.com/results?search_query=software+developer+resume+tips)
+- [Technical Interview Tips](https://www.youtube.com/results?search_query=technical+interview+tips+software+engineering)
+- [How to Explain Projects in Interviews](https://www.youtube.com/results?search_query=how+to+explain+coding+projects+in+interview)
+
+---
+
+# 🔀 7. HOW THE FIELDS CONNECT
+
+```text
+                  REAL TECHNOLOGY PRODUCT
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+      SOFTWARE DEVELOPMENT             DATA
+        Builds products         Insights + intelligent systems
+             │                           │
+             └─────────────┬─────────────┘
+                           │
+                        NETWORKS
+                  Connect the systems
+                           │
+                           ▼
+                    CLOUD & DEVOPS
+               Deploy, scale and monitor
+                           │
+                           ▼
+                    CYBERSECURITY
+                  Protect every layer
 ```
 
-Important DevOps ideas include:
+## 🎬 Compare Similar Careers
 
--   Git and version control
--   Continuous Integration (CI)
--   Continuous Delivery / Deployment (CD)
--   Infrastructure as Code
--   Containers
--   Cloud platforms
--   Automated testing
--   Monitoring
--   Reliability
+- [Frontend vs Backend vs Full Stack](https://www.youtube.com/results?search_query=frontend+vs+backend+vs+full+stack)
+- [Software Engineer vs DevOps Engineer](https://www.youtube.com/results?search_query=software+engineer+vs+DevOps+engineer)
+- [Cloud Engineer vs DevOps Engineer](https://www.youtube.com/results?search_query=cloud+engineer+vs+DevOps+engineer)
+- [Cybersecurity vs Network Engineering](https://www.youtube.com/results?search_query=cybersecurity+vs+network+engineering)
+- [Data Scientist vs Machine Learning Engineer](https://www.youtube.com/results?search_query=data+scientist+vs+machine+learning+engineer)
+- [DevOps vs SRE](https://www.youtube.com/results?search_query=DevOps+vs+SRE)
 
-## Careers
+---
 
--   Cloud Engineer
--   Cloud Architect
--   DevOps Engineer
--   Site Reliability Engineer (SRE)
--   Platform Engineer
--   Cloud Developer
--   Infrastructure Engineer
--   Cloud Security Engineer
--   Cloud Network Engineer
--   Systems Engineer
--   DevSecOps Engineer
--   Kubernetes / Container Platform Engineer
+# 🔗 8. HYBRID CAREERS
 
-## Quick Video Exploration
+| Career | Combines |
+|---|---|
+| **DevSecOps Engineer** | Software + DevOps + Cybersecurity |
+| **Cloud Security Engineer** | Cloud + Networks + Cybersecurity |
+| **MLOps Engineer** | Data + ML + DevOps |
+| **Data Platform Engineer** | Data Engineering + Cloud |
+| **Application Security Engineer** | Software + Cybersecurity |
+| **Cloud Network Engineer** | Networks + Cloud |
+| **Platform Engineer** | Software + Infrastructure + DevOps |
+| **AI Engineer** | Software + Data + ML |
 
-1.  [Cloud Computing Explained --- PowerCert Animated
-    Videos](https://www.youtube.com/watch?v=_a6us8kaq0g)
-2.  [What is DevOps? --- IBM
-    Technology](https://www.youtube.com/watch?v=UbtB4sMaaNM)
-3.  [Docker in 100 Seconds ---
-    Fireship](https://www.youtube.com/watch?v=Gjnup-PuquQ)
-4.  [Kubernetes Explained in 100 Seconds ---
-    Fireship](https://www.youtube.com/watch?v=PziYflu8cB8)
-5.  [Git Explained in 100 Seconds ---
-    Fireship](https://www.youtube.com/watch?v=hwP7WQkmECE)
-6.  [Explore Cloud Engineer career
-    videos](https://www.youtube.com/results?search_query=cloud+engineer+career+day+in+the+life)
-7.  [Explore DevOps Engineer career
-    videos](https://www.youtube.com/results?search_query=devops+engineer+career+day+in+the+life)
+---
 
-### Think About It
+# ✅ 9. VIDEO-FIRST EXPLORATION CHALLENGE
 
-> A team has finished building a web application. Who might automate its
-> testing and deployment to cloud servers?
+Watch before choosing your specialization:
 
-------------------------------------------------------------------------
+- [ ] 3 Software Development videos
+- [ ] 3 Cybersecurity videos
+- [ ] 3 Data videos
+- [ ] 3 Networking videos
+- [ ] 3 Cloud & DevOps videos
+- [ ] 2 career-comparison videos
 
-# 6. Career Development
+Then choose your current top three:
 
-Career development is not a technical specialization, but it is
-essential for turning technical competence into professional
-opportunities.
+```text
+1. ____________________________________
 
-Knowing Python, networking, cybersecurity, or cloud technologies is only
-part of becoming employable.
+2. ____________________________________
 
-You should also learn how to:
-
--   Build a professional GitHub profile
--   Build a strong LinkedIn profile
--   Create a technical portfolio
--   Document projects
--   Write a technical CV
--   Communicate technical ideas
--   Work in teams
--   Use Git and GitHub professionally
--   Prepare for technical interviews
--   Explain how your projects solve real problems
--   Demonstrate competence instead of only listing certificates
-
-## Possible Career Directions
-
-The skills in this folder support **all** technical careers, including:
-
--   Software Developer
--   Data Scientist
--   Data Analyst
--   Cybersecurity Analyst
--   Network Engineer
--   Cloud Engineer
--   DevOps Engineer
--   Technical Project Lead
--   Technology Consultant
--   Researcher
--   Entrepreneur
-
-## Quick Video Exploration
-
-1.  [Git Explained in 100 Seconds ---
-    Fireship](https://www.youtube.com/watch?v=hwP7WQkmECE)
-2.  [Explore GitHub Portfolio
-    videos](https://www.youtube.com/results?search_query=github+portfolio+for+students+short)
-3.  [Explore LinkedIn for Tech Students
-    videos](https://www.youtube.com/results?search_query=linkedin+profile+computer+science+student+tips)
-4.  [Explore Software Engineering interview
-    videos](https://www.youtube.com/results?search_query=software+engineering+interview+tips+short)
-5.  [Explore Cybersecurity career roadmap
-    videos](https://www.youtube.com/results?search_query=cybersecurity+career+roadmap+short)
-6.  [Explore Data career comparison
-    videos](https://www.youtube.com/results?search_query=data+analyst+vs+data+scientist+vs+data+engineer+short)
-
-------------------------------------------------------------------------
-
-# 7. How the Fields Work Together
-
-These fields are not isolated.
-
-Imagine a company building an online learning platform:
-
-``` text
-                    ONLINE LEARNING PLATFORM
-
-Software Developers
-Build the website, mobile app, APIs and backend
-                         │
-                         ▼
-Data Professionals ── Analyse learner behaviour and performance
-                         │
-                         ▼
-Network Engineers ── Ensure systems can communicate reliably
-                         │
-                         ▼
-Cloud / DevOps ── Deploy, automate, scale and monitor the platform
-                         │
-                         ▼
-Cybersecurity ── Protect users, applications, infrastructure and data
+3. ____________________________________
 ```
 
-A real technology project normally requires people from several fields
-to work together.
+<div align="center">
 
-This is why understanding neighbouring fields is useful even after
-choosing a specialization.
+## 🧭 YOUR FIRST FIELD IS A STARTING POINT — NOT A LIMIT
 
-------------------------------------------------------------------------
+**Explore broadly. Specialize deliberately. Build evidence.**
 
-# 8. Field Exploration Challenge
-
-Before choosing a learning path, complete this small investigation.
-
-## Step 1 --- Explore
-
-Watch at least **two videos from each field**.
-
--   [ ] Software Development
--   [ ] Cybersecurity
--   [ ] Data Science
--   [ ] Networks
--   [ ] Cloud & DevOps
--   [ ] Career Development
-
-## Step 2 --- Compare
-
-For each technical field, answer:
-
-1.  What problem does this field solve?
-2.  What does a professional in this field do?
-3.  Which tools or technologies are commonly used?
-4.  Which careers exist in the field?
-5.  Which part interested you most?
-6.  Which part interested you least?
-
-## Step 3 --- Choose Three
-
-Select your three most interesting fields.
-
-``` text
-1. _______________________________
-
-2. _______________________________
-
-3. _______________________________
-```
-
-## Step 4 --- Investigate Careers
-
-Choose one career from each of your top three fields and research:
-
--   Typical responsibilities
--   Required technical skills
--   Common tools
--   Example projects
--   Entry-level job titles
--   Portfolio projects that demonstrate competence
-
-## Step 5 --- Choose a Starting Path
-
-Ask yourself:
-
-> What type of problem would I enjoy solving repeatedly?
-
-  -----------------------------------------------------------------------
-  If you enjoy...                     Explore...
-  ----------------------------------- -----------------------------------
-  Building applications               Software Development
-
-  Protecting systems                  Cybersecurity
-
-  Finding meaning in data             Data Science
-
-  Understanding how computers         Networks
-  communicate                         
-
-  Deploying and operating systems at  Cloud & DevOps
-  scale                               
-
-  Combining several areas             Full-Stack, DevSecOps, MLOps, Cloud
-                                      Security or Platform Engineering
-  -----------------------------------------------------------------------
-
-------------------------------------------------------------------------
-
-# Important: You Do Not Have to Choose Immediately
-
-Computer science fields overlap.
-
-A software developer can later become a:
-
--   DevOps Engineer
--   Cloud Engineer
--   Security Engineer
--   Data Engineer
--   Machine Learning Engineer
--   Software Architect
-
-A network engineer can move toward:
-
--   Cloud Networking
--   Network Security
--   Cloud Engineering
--   Cybersecurity
-
-A data analyst can progress toward:
-
--   Data Science
--   Data Engineering
--   Business Intelligence
--   Machine Learning
-
-Your first field is a **starting point**, not a permanent limit.
-
-------------------------------------------------------------------------
-
-## Recommended Learning Principle
-
-``` text
-Explore broadly
-      ↓
-Choose one field
-      ↓
-Build strong foundations
-      ↓
-Practice repeatedly
-      ↓
-Build real projects
-      ↓
-Publish your work
-      ↓
-Receive feedback
-      ↓
-Demonstrate competence
-      ↓
-Specialize further
-```
-
-> Do not choose a field only because it is popular. Explore what
-> professionals actually do, try small practical activities, and then
-> choose the type of problems you want to learn how to solve.
+</div>
