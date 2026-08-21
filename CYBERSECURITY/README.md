@@ -29,42 +29,7 @@ Successful progression can lead from foundational learning to participation in r
 
 ## **Repository Structure**
 
-CYBER-SECURITY/
-│
-├── README.md
-│
-├── Computer Science Basics.md
-│
-├── Cyber Security Foundations.md
-│
-└── Cyber Security Career Skills/
-    │
-    ├── README.md
-    │
-    ├── Security Analyst/
-    │   ├── README.md
-    │   ├── Level 1 - SOC Level 1.md
-    │   ├── Level 2 - SOC Level 2.md
-    │   ├── Level 3 - Advanced Endpoint Investigations.md
-    │   └── Level 4 - Defending Azure.md
-    │
-    ├── Penetration Tester/
-    │   ├── README.md
-    │   ├── Level 1 - Jr Penetration Tester.md
-    │   ├── Level 2 - Web Application Pentesting.md
-    │   └── Level 3 - Web Application Red Teaming.md
-    │
-    ├── Security Engineer/
-    │   ├── README.md
-    │   ├── Level 1 - Security Engineer.md
-    │   ├── Level 2 - DevSecOps.md
-    │   └── Level 3 - Defending AWS.md
-    │
-    └── AI Security/
-        ├── README.md
-        ├── Level 1 - AI Security Level 1.md
-        ├── Level 2 - AI Security Level 2.md
-        └── Level 3 - AI Security Level 3.md
+![Repository Structure](<img width="498" height="619" alt="image" src="https://github.com/user-attachments/assets/eb7dec70-dfa5-41a9-935f-8cd1e9ba3ea4" />)
 
 
 ## The BIH Cyber Security Career Path
