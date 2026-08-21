@@ -12,7 +12,7 @@ Assessment: Competence based
 
    **Common Foundation → Specialisation → Competence → Real-World Application**
 
-#### **About the CyberSecurity Department**
+## **About the CyberSecurity Department**
 
 The Beacon Innovation Hub (BIH) Cyber Security Department Learning Resources provide a structured technical development pathway for individuals pursuing careers in:
 
