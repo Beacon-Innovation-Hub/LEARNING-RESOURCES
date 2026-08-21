@@ -3,8 +3,11 @@
    **Structured Learning • Demonstrated Competence • Real-World Impact**
 
 Department: Cyber Security
+
 Specialisations: 4
+
 Learning: Project based
+
 Assessment: Competence based
 
    **Common Foundation → Specialisation → Competence → Real-World Application**
