@@ -27,7 +27,7 @@ Every learner begins with a shared foundation in computer science and cyber secu
 
 Successful progression can lead from foundational learning to participation in real-world and commercialisable BIH projects.
 
-#### **Repository Structure**
+## **Repository Structure**
 
 CYBER-SECURITY/
 │
@@ -67,7 +67,7 @@ CYBER-SECURITY/
         └── Level 3 - AI Security Level 3.md
 
 
-#### The BIH Cyber Security Career Path
+## The BIH Cyber Security Career Path
 
 The Cyber Security Department uses a competence-based progression model
 Stage	Focus
@@ -136,7 +136,7 @@ After developing the common foundation, learners proceed into one of four specia
 🛡️Security Analyst	  🎯Penetration Tester	🔧Security Engineer 	🤖AI Security
 Monitor•Detect•Respond	Attack•Test•Exploit	Build•Protect•Automate Secure•Audit•Defend
 
-#### 🛡️ Security Analyst
+### 🛡️ Security Analyst
 
 Path: Security Analyst/
 Security Analysts focus on monitoring systems, detecting threats, investigating incidents, and responding to security events.
@@ -156,7 +156,7 @@ Typical areas include:
 The first required specialist stage is:
 Level 1 — SOC Level 1
 
-#### 🎯 Penetration Tester
+### 🎯 Penetration Tester
 
 Path: Penetration Tester/
 Penetration Testers use ethical hacking techniques to identify vulnerabilities, test security controls, and help organisations improve their security posture.
@@ -176,7 +176,7 @@ Typical areas include:
 The first required specialist stage is:
 Level 1 — Jr Penetration Tester
 
-#### 🔧Security Engineer
+### 🔧Security Engineer
 
 Path: Security Engineer/
 Security Engineers design, build, and maintain secure systems, automate security processes, and integrate security into development workflows.
@@ -196,7 +196,7 @@ Typical areas include:
 The first required specialist stage is:
 Level 1 — Security Engineer
 
-#### 🤖 AI Security
+### 🤖 AI Security
 
 Path: AI Security/
 AI Security specialists focus on securing artificial intelligence systems, understanding AI threats, and using AI to enhance security operations.
@@ -216,7 +216,7 @@ Typical areas include:
 The first required specialist stage is:
 Level 1 — AI Security Level 1
 
-#### Becoming a BIH Junior
+## Becoming a BIH Junior
 
 Completing Computer Science Basics.md alone does not qualify a learner as a Junior.
 
@@ -232,7 +232,7 @@ Computer Science Basics → Foundation Competence Projects → Level 1 Penetrati
 
 The same model applies to Security Analysts, Security Engineers, and AI Security specialists.
 
-#### Junior Certification
+## Junior Certification
 
 Learners who successfully demonstrate the required foundational and specialist competence may receive a:
 
@@ -241,7 +241,7 @@ The certificate represents demonstrated practical competence within the learner'
 It is not awarded simply for completing learning resources.
 Junior certification indicates that the learner has demonstrated sufficient competence to begin contributing to appropriate real-world BIH projects and commercialisable solutions under the relevant project structure and technical oversight.
 
-#### Competence Assessment
+## Competence Assessment
 
 BIH assessments are designed to evaluate whether a learner can perform technical work rather than simply reproduce information.
 Assessment may therefore consider:
@@ -258,7 +258,7 @@ Technical Defence	       Whether the learner understands and can defend their wo
 Independence	           Whether competence can be demonstrated without inappropriate assistance
 Effectiveness	           Whether the solution achieves its intended objective
 
-Technical Defence
+## Technical Defence
 Technical defence is an important part of BIH competence evaluation.
 A learner may be required to explain:
 •	Why a particular approach was selected
@@ -275,7 +275,7 @@ A learner may be required to explain:
 A working project without sufficient understanding may not be considered evidence of complete competence.
 If you built it, you should be able to explain it, justify it, test it, and improve it.
 
-#### Real-World Application
+## Real-World Application
 
 Competence projects should increasingly resemble the type of work encountered in actual organisations.
 Learners may work with:
@@ -294,7 +294,7 @@ Learners may work with:
 
 This allows assessment to measure not only knowledge, but the ability to turn knowledge into effective technical solutions.
 
-#### From Junior to Professional
+## From Junior to Professional
 
 Junior certification is an important milestone, but it is not the end of the BIH learning pathway.
 Learners may continue through increasingly advanced levels within their specialisation.
@@ -310,7 +310,7 @@ Professional	            High-level independent competence
 Professional classification requires substantially more than course completion.
 It represents complete excellence, technical maturity, independence, reliability, and premium effectiveness within the learner's specialisation.
 
-#### BIH Professional Certification
+## BIH Professional Certification
 
 Learners who satisfy the complete professional competence requirements may qualify for a:
 **BIH Professional Competence Certificate**
@@ -331,7 +331,7 @@ A BIH Professional should be capable of:
 
 Professional competence requires evidence of excellence and effectiveness, not simply familiarity with advanced tools.
 
-#### Professional Opportunities at BIH
+## Professional Opportunities at BIH
 
 Professional certification may qualify members for stronger consideration and connection to major BIH initiatives.
 These may include:
@@ -345,7 +345,7 @@ These may include:
 Selection for individual projects may still depend on the specific technical requirements, project needs, performance history, and available roles.
 The objective is to create a direct relationship between learning, demonstrated competence, certification, real experience, and increasing technical responsibility.
 
-#### Learning Is Not Competence
+## Learning Is Not Competence
 
 BIH makes an important distinction:
 Completing a learning resource means that you have studied the material. Passing a competence assessment demonstrates that you can apply it.
@@ -364,7 +364,7 @@ Producing consistent results	  ✅ Evidence
 Knowledge becomes competence when it can be applied, explained, tested, defended, and improved.
 Recommended Learning Sequence
 
-#### Recommended Learning Sequence
+## Recommended Learning Sequence
 
 **Stage      	Requirement                                  	BIH Status**
 1	    Read the Cyber Security Department README.md	      Orientation
@@ -380,7 +380,7 @@ Recommended Learning Sequence
 11	  Demonstrate advanced real-world competence         	 Professional Candidate
 12	  Pass professional competence assessment            	 Professional
 
-#### 🤝How the Cyber Security Roles Work Together
+## 🤝How the Cyber Security Roles Work Together
 
 Although the pathways specialise, they are designed to work together.
 
@@ -393,7 +393,7 @@ Although the pathways specialise, they are designed to work together.
 Typical collaboration: Security Engineer builds secure infrastructure → Penetration Tester tests it → Security Analyst monitors it → AI Security secures AI components.
 Real BIH projects may require collaboration between all four specialisations.
 
-#### Switching or Expanding Specialisations
+## Switching or Expanding Specialisations
 
 Learners are not permanently restricted to one specialisation.
 For example, a BIH Junior Security Analyst who later wants to qualify as a Junior Penetration Tester does not necessarily need to repeat the common foundation.
@@ -403,7 +403,7 @@ This supports a T-shaped competence model:
 **Breadth	                                                           Depth**
 Computer basics, networking, security fundamentals, tools, ethics	   Deep competence in the chosen specialisation
 
-#### Assessment Philosophy
+## Assessment Philosophy
 
 BIH competence assessments should answer one central question:
 Can this person be trusted to apply these skills effectively to a real security problem?
@@ -415,7 +415,7 @@ Assessment should therefore prioritise:
 •	Quality over speed
 •	Effectiveness over unnecessary complexity
 
-#### 🚀 START YOUR CYBER SECURITY PATH
+## 🚀 START YOUR CYBER SECURITY PATH
 
 Foundation first. Specialisation second. Competence throughout.
 All Cyber Security Department members begin with the same foundation:
@@ -434,14 +434,14 @@ Complete the required competence projects and successfully defend your technical
 Progress from:
 Beginner → Junior → Professional
 
-### FINAL PRINCIPLE
+## FINAL PRINCIPLE
 
 At Beacon Innovation Hub, progress is not measured by how much content you have consumed. It is measured by what you can understand, build, defend, improve, and apply to real-world problems.
 Build the foundation. Choose your specialisation. Demonstrate competence. Earn responsibility. Build solutions that matter.
 
 Beacon Innovation Hub — Where ideas transform the Future!
 
-#### BEACON INNOVATION HUB
+# BEACON INNOVATION HUB
 
 Learn → Apply → Demonstrate → Defend → Contribute
 Where ideas transform the Future!
