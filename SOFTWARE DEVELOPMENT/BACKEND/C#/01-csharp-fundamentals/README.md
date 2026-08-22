@@ -6,10 +6,12 @@ The concepts, examples, and exercises in this section are based on the course be
 
 ## Learning Resource
 
+
+[![C# Tutorial - Full Course for Beginners](https://img.youtube.com/vi/GhQdlIFylQ8/maxresdefault.jpg)](https://youtu.be/GhQdlIFylQ8)
+
 **C# Tutorial – Full Course for Beginners**
 
-[Watch the course on YouTube](https://youtu.be/GhQdlIFylQ8)
-
+Click the image above to watch the course on YouTube.
 ---
 
 # Course Topics
