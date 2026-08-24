@@ -29,7 +29,8 @@ Successful progression can lead from foundational learning to participation in r
 
 ## **Repository Structure**
 
-![Repository Structure](<img width="498" height="619" alt="image" src="https://github.com/user-attachments/assets/eb7dec70-dfa5-41a9-935f-8cd1e9ba3ea4" />)
+
+<img width="1122" height="1402" alt="cyber markdown" src="https://github.com/user-attachments/assets/7136d3cf-5245-4e87-a4eb-365a96dd20e2" />
 
 
 ## The BIH Cyber Security Career Path
