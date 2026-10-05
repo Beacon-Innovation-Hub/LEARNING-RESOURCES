@@ -8,7 +8,7 @@ This TXT file contains GitHub Markdown source. Copy the contents into a .md file
 > Build the programming, mathematical and problem-framing foundations
 > required before serious modelling begins.
 
-**Prerequisite:** [Python For Data.md](Python%20For%20Data.md)
+**Prerequisite:** [Python For Data.md](../Python%20For%20Data.md)
 
 [← Back to Data Scientist Roadmap](README.md)
 
